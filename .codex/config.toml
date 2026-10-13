@@ -1,0 +1,8 @@
+# Optional Codex project hooks for the interview kit.
+# Codex may require you to trust project hooks via /hooks before these run.
+
+[[hooks.user_prompt_submit]]
+command = ["node", "scripts/log-agent-event.mjs", "user-prompt-submit"]
+
+[[hooks.pre_tool_use]]
+command = ["node", "scripts/log-agent-event.mjs", "pre-tool-use"]

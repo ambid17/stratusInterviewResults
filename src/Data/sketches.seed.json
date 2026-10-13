@@ -1,0 +1,7377 @@
+[
+  {
+    "id": "SK-1000",
+    "packageId": "PKG-CHW-L03",
+    "crewId": "CREW-02",
+    "discipline": "SheetMetal",
+    "diameterInches": 14,
+    "material": "Stainless 304",
+    "nodes": [
+      {
+        "x": 46.13,
+        "y": 9.31,
+        "z": 78.69
+      },
+      {
+        "x": 46.13,
+        "y": 9.31,
+        "z": 117.92
+      },
+      {
+        "x": 7.08,
+        "y": 9.31,
+        "z": 117.92
+      },
+      {
+        "x": 7.08,
+        "y": 9.31,
+        "z": 125.32
+      }
+    ],
+    "status": "Published",
+    "capturedAtUtc": "2026-08-01T03:52:37.011Z",
+    "publishedAtUtc": "2026-08-01T05:01:10.892Z",
+    "clientLengthFeet": 85.68,
+    "clientVersion": "field-1.4.0",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-08-01T05:01:10.892Z",
+        "actor": "CREW-02"
+      }
+    ]
+  },
+  {
+    "id": "SK-1001",
+    "packageId": "PKG-DUCT-L06",
+    "crewId": "CREW-04",
+    "discipline": "SheetMetal",
+    "diameterInches": 14,
+    "material": "Galvanized 26ga",
+    "nodes": [
+      {
+        "x": 173.69,
+        "y": 21.74,
+        "z": 44.74
+      },
+      {
+        "x": 183.72,
+        "y": 21.74,
+        "z": 44.74
+      },
+      {
+        "x": 183.72,
+        "y": 21.74,
+        "z": 17.32
+      },
+      {
+        "x": 219.41,
+        "y": 21.74,
+        "z": 17.32
+      }
+    ],
+    "status": "Approved",
+    "capturedAtUtc": "2026-07-23T02:56:43.629Z",
+    "publishedAtUtc": "2026-07-23T03:29:03.635Z",
+    "clientLengthFeet": 73.14,
+    "clientVersion": "field-1.4.1",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-23T03:29:03.635Z",
+        "actor": "CREW-04"
+      },
+      {
+        "from": "Published",
+        "to": "UnderReview",
+        "atUtc": "2026-07-23T19:28:47.016Z",
+        "actor": "shop-planner"
+      },
+      {
+        "from": "UnderReview",
+        "to": "Approved",
+        "atUtc": "2026-07-24T03:40:06.949Z",
+        "actor": "shop-planner"
+      }
+    ]
+  },
+  {
+    "id": "SK-1002",
+    "packageId": "PKG-DUCT-L04",
+    "crewId": "CREW-05",
+    "discipline": "Piping",
+    "diameterInches": 1,
+    "material": "Grooved Carbon Steel",
+    "nodes": [
+      {
+        "x": 238.89,
+        "y": 24.48,
+        "z": 63.26
+      },
+      {
+        "x": 252.1,
+        "y": 24.48,
+        "z": 63.26
+      }
+    ],
+    "status": "Approved",
+    "capturedAtUtc": "2026-07-12T15:28:33.822Z",
+    "publishedAtUtc": "2026-07-12T16:38:32.327Z",
+    "clientLengthFeet": 13.21,
+    "clientVersion": "field-1.4.0",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-12T16:38:32.327Z",
+        "actor": "CREW-05"
+      },
+      {
+        "from": "Published",
+        "to": "UnderReview",
+        "atUtc": "2026-07-13T00:21:03.120Z",
+        "actor": "shop-planner"
+      },
+      {
+        "from": "UnderReview",
+        "to": "Approved",
+        "atUtc": "2026-07-13T18:17:51.680Z",
+        "actor": "shop-planner"
+      }
+    ]
+  },
+  {
+    "id": "SK-1003",
+    "packageId": "PKG-CHW-L05",
+    "crewId": "CREW-01",
+    "discipline": "Piping",
+    "diameterInches": 4,
+    "material": "Copper Type L",
+    "nodes": [
+      {
+        "x": 192.53,
+        "y": 48.55,
+        "z": 77.69
+      },
+      {
+        "x": 192.53,
+        "y": 48.55,
+        "z": 46.89
+      }
+    ],
+    "status": "Published",
+    "capturedAtUtc": "2026-07-12T13:31:50.481Z",
+    "publishedAtUtc": "2026-07-12T14:35:44.134Z",
+    "clientLengthFeet": 30.8,
+    "clientVersion": "field-1.4.2",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-12T14:35:44.134Z",
+        "actor": "CREW-01"
+      }
+    ]
+  },
+  {
+    "id": "SK-1004",
+    "packageId": "PKG-CHW-L02",
+    "crewId": "CREW-01",
+    "discipline": "SheetMetal",
+    "diameterInches": 18,
+    "material": "Galvanized 24ga",
+    "nodes": [
+      {
+        "x": 84.93,
+        "y": 50.88,
+        "z": 169.76
+      },
+      {
+        "x": 84.93,
+        "y": 50.88,
+        "z": 147.77
+      }
+    ],
+    "status": "Approved",
+    "capturedAtUtc": "2026-07-13T14:07:17.974Z",
+    "publishedAtUtc": "2026-07-13T14:51:06.637Z",
+    "clientLengthFeet": 21.99,
+    "clientVersion": "field-1.4.0",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-13T14:51:06.637Z",
+        "actor": "CREW-01"
+      },
+      {
+        "from": "Published",
+        "to": "UnderReview",
+        "atUtc": "2026-07-14T19:03:00.538Z",
+        "actor": "shop-planner"
+      },
+      {
+        "from": "UnderReview",
+        "to": "Approved",
+        "atUtc": "2026-07-15T14:39:18.717Z",
+        "actor": "shop-planner"
+      }
+    ]
+  },
+  {
+    "id": "SK-1005",
+    "packageId": "PKG-CHW-L03",
+    "crewId": "CREW-04",
+    "discipline": "Electrical",
+    "diameterInches": 1.25,
+    "material": "PVC Sch40",
+    "nodes": [
+      {
+        "x": 151.19,
+        "y": 23.13,
+        "z": 46.59
+      },
+      {
+        "x": 121.75,
+        "y": 23.13,
+        "z": 46.59
+      },
+      {
+        "x": 121.75,
+        "y": 23.13,
+        "z": 82.08
+      },
+      {
+        "x": 85.03,
+        "y": 23.13,
+        "z": 82.08
+      }
+    ],
+    "status": "UnderReview",
+    "capturedAtUtc": "2026-07-30T02:40:53.499Z",
+    "publishedAtUtc": "2026-07-30T02:42:39.229Z",
+    "clientLengthFeet": 101.65,
+    "clientVersion": "field-1.4.1",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-30T02:42:39.229Z",
+        "actor": "CREW-04"
+      },
+      {
+        "from": "Published",
+        "to": "UnderReview",
+        "atUtc": "2026-07-31T07:33:43.115Z",
+        "actor": "shop-planner"
+      }
+    ]
+  },
+  {
+    "id": "SK-1006",
+    "packageId": "PKG-DUCT-L06",
+    "crewId": "CREW-06",
+    "discipline": "Electrical",
+    "diameterInches": 2,
+    "material": "Rigid",
+    "nodes": [
+      {
+        "x": 131.44,
+        "y": 22.86,
+        "z": 7.57
+      },
+      {
+        "x": 131.44,
+        "y": 22.86,
+        "z": 31.27
+      }
+    ],
+    "status": "Published",
+    "capturedAtUtc": "2026-07-17T14:04:06.135Z",
+    "publishedAtUtc": "2026-07-17T14:20:54.151Z",
+    "clientLengthFeet": 23.7,
+    "clientVersion": "field-1.4.0",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-17T14:20:54.151Z",
+        "actor": "CREW-06"
+      }
+    ]
+  },
+  {
+    "id": "SK-1007",
+    "packageId": "PKG-DUCT-L04",
+    "crewId": "CREW-05",
+    "discipline": "SheetMetal",
+    "diameterInches": 14,
+    "material": "Galvanized 26ga",
+    "nodes": [
+      {
+        "x": 49.93,
+        "y": 10.09,
+        "z": 46.29
+      },
+      {
+        "x": 49.93,
+        "y": 10.09,
+        "z": 37.61
+      },
+      {
+        "x": 31.19,
+        "y": 10.09,
+        "z": 37.61
+      },
+      {
+        "x": 31.19,
+        "y": 10.09,
+        "z": 74.11
+      },
+      {
+        "x": 31.19,
+        "y": 0.71,
+        "z": 74.11
+      }
+    ],
+    "status": "Approved",
+    "capturedAtUtc": "2026-07-11T20:02:59.238Z",
+    "publishedAtUtc": "2026-07-11T21:22:43.693Z",
+    "clientLengthFeet": 63.92,
+    "clientVersion": "field-1.4.2",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-11T21:22:43.693Z",
+        "actor": "CREW-05"
+      },
+      {
+        "from": "Published",
+        "to": "UnderReview",
+        "atUtc": "2026-07-12T04:08:38.300Z",
+        "actor": "shop-planner"
+      },
+      {
+        "from": "UnderReview",
+        "to": "Approved",
+        "atUtc": "2026-07-12T12:10:29.132Z",
+        "actor": "shop-planner"
+      }
+    ]
+  },
+  {
+    "id": "SK-1008",
+    "packageId": "PKG-MED-GAS-L01",
+    "crewId": "CREW-03",
+    "discipline": "Piping",
+    "diameterInches": 8,
+    "material": "Grooved Carbon Steel",
+    "nodes": [
+      {
+        "x": 117.9,
+        "y": 23.92,
+        "z": 100.53
+      },
+      {
+        "x": 117.9,
+        "y": 23.92,
+        "z": 92.1
+      },
+      {
+        "x": 142.51,
+        "y": 23.92,
+        "z": 92.1
+      },
+      {
+        "x": 142.51,
+        "y": 23.92,
+        "z": 133.08
+      },
+      {
+        "x": 151.18,
+        "y": 23.92,
+        "z": 133.08
+      }
+    ],
+    "status": "Published",
+    "capturedAtUtc": "2026-07-20T19:59:53.441Z",
+    "publishedAtUtc": "2026-07-20T20:06:55.945Z",
+    "clientLengthFeet": 82.69,
+    "clientVersion": "field-1.4.1",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-20T20:06:55.945Z",
+        "actor": "CREW-03"
+      }
+    ]
+  },
+  {
+    "id": "SK-1009",
+    "packageId": "PKG-MED-GAS-L01",
+    "crewId": "CREW-06",
+    "discipline": "Electrical",
+    "diameterInches": 0.75,
+    "material": "Rigid",
+    "nodes": [
+      {
+        "x": 30.88,
+        "y": 63.82,
+        "z": 67.43
+      },
+      {
+        "x": 30.88,
+        "y": 63.82,
+        "z": 52.1
+      },
+      {
+        "x": 51.73,
+        "y": 63.82,
+        "z": 52.1
+      }
+    ],
+    "status": "Published",
+    "capturedAtUtc": "2026-07-19T23:55:01.702Z",
+    "publishedAtUtc": "2026-07-20T00:11:57.863Z",
+    "clientLengthFeet": 36.18,
+    "clientVersion": "field-1.4.0",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-20T00:11:57.863Z",
+        "actor": "CREW-06"
+      }
+    ]
+  },
+  {
+    "id": "SK-1010",
+    "packageId": "PKG-MED-GAS-L01",
+    "crewId": "CREW-05",
+    "discipline": "Electrical",
+    "diameterInches": 1,
+    "material": "PVC Sch40",
+    "nodes": [
+      {
+        "x": 126.27,
+        "y": 36.88,
+        "z": 136.5
+      },
+      {
+        "x": 126.27,
+        "y": 36.88,
+        "z": 147.34
+      }
+    ],
+    "status": "UnderReview",
+    "capturedAtUtc": "2026-07-21T18:38:08.002Z",
+    "publishedAtUtc": "2026-07-21T19:22:57.841Z",
+    "clientLengthFeet": 10.84,
+    "clientVersion": "field-1.4.2",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-21T19:22:57.841Z",
+        "actor": "CREW-05"
+      },
+      {
+        "from": "Published",
+        "to": "UnderReview",
+        "atUtc": "2026-07-21T21:46:23.402Z",
+        "actor": "shop-planner"
+      }
+    ]
+  },
+  {
+    "id": "SK-1011",
+    "packageId": "PKG-CHW-L05",
+    "crewId": "CREW-02",
+    "discipline": "Electrical",
+    "diameterInches": 1,
+    "material": "PVC Sch40",
+    "nodes": [
+      {
+        "x": 84.1,
+        "y": 23.61,
+        "z": 64.82
+      },
+      {
+        "x": 84.1,
+        "y": 23.61,
+        "z": 45.93
+      },
+      {
+        "x": 64.25,
+        "y": 23.61,
+        "z": 45.93
+      },
+      {
+        "x": 64.25,
+        "y": 23.61,
+        "z": 13.31
+      }
+    ],
+    "status": "UnderReview",
+    "capturedAtUtc": "2026-07-17T23:10:41.588Z",
+    "publishedAtUtc": "2026-07-18T00:10:00.056Z",
+    "clientLengthFeet": 71.36,
+    "clientVersion": "field-1.4.1",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-18T00:10:00.056Z",
+        "actor": "CREW-02"
+      },
+      {
+        "from": "Published",
+        "to": "UnderReview",
+        "atUtc": "2026-07-18T03:05:05.757Z",
+        "actor": "shop-planner"
+      }
+    ]
+  },
+  {
+    "id": "SK-1012",
+    "packageId": "PKG-CHW-L05",
+    "crewId": "CREW-02",
+    "discipline": "Electrical",
+    "diameterInches": 1,
+    "material": "EMT",
+    "nodes": [
+      {
+        "x": 113.15,
+        "y": 64.18,
+        "z": 45.2
+      },
+      {
+        "x": 113.15,
+        "y": 64.18,
+        "z": 16.35
+      },
+      {
+        "x": 77.39,
+        "y": 64.18,
+        "z": 16.35
+      }
+    ],
+    "status": "Published",
+    "capturedAtUtc": "2026-07-19T19:41:56.566Z",
+    "publishedAtUtc": "2026-07-19T19:56:19.629Z",
+    "clientLengthFeet": 64.61,
+    "clientVersion": "field-1.4.0",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-19T19:56:19.629Z",
+        "actor": "CREW-02"
+      }
+    ]
+  },
+  {
+    "id": "SK-1013",
+    "packageId": "PKG-MED-GAS-L01",
+    "crewId": "CREW-03",
+    "discipline": "Piping",
+    "diameterInches": 1.5,
+    "material": "Grooved Carbon Steel",
+    "nodes": [
+      {
+        "x": 49.06,
+        "y": 8.4,
+        "z": 134.87
+      },
+      {
+        "x": 49.06,
+        "y": 8.4,
+        "z": 110.88
+      },
+      {
+        "x": 85.76,
+        "y": 8.4,
+        "z": 110.88
+      },
+      {
+        "x": 85.76,
+        "y": 8.4,
+        "z": 121.9
+      },
+      {
+        "x": 119.6,
+        "y": 8.4,
+        "z": 121.9
+      },
+      {
+        "x": 119.6,
+        "y": 0.43,
+        "z": 121.9
+      }
+    ],
+    "status": "Published",
+    "capturedAtUtc": "2026-07-23T09:42:02.910Z",
+    "publishedAtUtc": "2026-07-23T10:22:19.505Z",
+    "clientLengthFeet": 105.55,
+    "clientVersion": "field-1.4.2",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-23T10:22:19.505Z",
+        "actor": "CREW-03"
+      }
+    ]
+  },
+  {
+    "id": "SK-1014",
+    "packageId": "PKG-MED-GAS-L01",
+    "crewId": "CREW-05",
+    "discipline": "SheetMetal",
+    "diameterInches": 8,
+    "material": "Galvanized 24ga",
+    "nodes": [
+      {
+        "x": 125.07,
+        "y": 35.61,
+        "z": 88.3
+      },
+      {
+        "x": 87.85,
+        "y": 35.61,
+        "z": 88.3
+      },
+      {
+        "x": 87.85,
+        "y": 35.61,
+        "z": 117.52
+      },
+      {
+        "x": 130.32,
+        "y": 35.61,
+        "z": 117.52
+      }
+    ],
+    "status": "Published",
+    "capturedAtUtc": "2026-07-20T19:40:06.500Z",
+    "publishedAtUtc": "2026-07-20T20:21:57.949Z",
+    "clientLengthFeet": 108.91,
+    "clientVersion": "field-1.4.1",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-20T20:21:57.949Z",
+        "actor": "CREW-05"
+      }
+    ]
+  },
+  {
+    "id": "SK-1015",
+    "packageId": "PKG-DUCT-L04",
+    "crewId": "CREW-06",
+    "discipline": "Piping",
+    "diameterInches": 3,
+    "material": "CPVC",
+    "nodes": [
+      {
+        "x": 216.91,
+        "y": 36.94,
+        "z": 46.55
+      },
+      {
+        "x": 198.68,
+        "y": 36.94,
+        "z": 46.55
+      },
+      {
+        "x": 198.68,
+        "y": 36.94,
+        "z": 24.71
+      },
+      {
+        "x": 185.58,
+        "y": 36.94,
+        "z": 24.71
+      }
+    ],
+    "status": "Approved",
+    "capturedAtUtc": "2026-07-30T04:48:02.014Z",
+    "publishedAtUtc": "2026-07-30T06:05:42.210Z",
+    "clientLengthFeet": 53.17,
+    "clientVersion": "field-1.4.2",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-30T06:05:42.210Z",
+        "actor": "CREW-06"
+      },
+      {
+        "from": "Published",
+        "to": "UnderReview",
+        "atUtc": "2026-07-31T11:51:54.295Z",
+        "actor": "shop-planner"
+      },
+      {
+        "from": "UnderReview",
+        "to": "Approved",
+        "atUtc": "2026-07-31T20:31:08.803Z",
+        "actor": "shop-planner"
+      }
+    ]
+  },
+  {
+    "id": "SK-1016",
+    "packageId": "PKG-DUCT-L04",
+    "crewId": "CREW-06",
+    "discipline": "SheetMetal",
+    "diameterInches": 12,
+    "material": "Galvanized 24ga",
+    "nodes": [
+      {
+        "x": 36.92,
+        "y": 10.11,
+        "z": 38
+      },
+      {
+        "x": 4.27,
+        "y": 10.11,
+        "z": 38
+      },
+      {
+        "x": 4.27,
+        "y": 10.11,
+        "z": 28.83
+      },
+      {
+        "x": -38.09,
+        "y": 10.11,
+        "z": 28.83
+      },
+      {
+        "x": -38.09,
+        "y": 10.11,
+        "z": 20.37
+      }
+    ],
+    "status": "Approved",
+    "capturedAtUtc": "2026-07-24T13:22:23.115Z",
+    "publishedAtUtc": "2026-07-24T14:23:27.158Z",
+    "clientLengthFeet": 92.64,
+    "clientVersion": "field-1.4.1",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-24T14:23:27.158Z",
+        "actor": "CREW-06"
+      },
+      {
+        "from": "Published",
+        "to": "UnderReview",
+        "atUtc": "2026-07-25T17:21:14.889Z",
+        "actor": "shop-planner"
+      },
+      {
+        "from": "UnderReview",
+        "to": "Approved",
+        "atUtc": "2026-07-26T01:13:19.802Z",
+        "actor": "shop-planner"
+      }
+    ]
+  },
+  {
+    "id": "SK-1017",
+    "packageId": "PKG-MED-GAS-L01",
+    "crewId": "CREW-04",
+    "discipline": "Electrical",
+    "diameterInches": 2,
+    "material": "EMT",
+    "nodes": [
+      {
+        "x": 184.77,
+        "y": 64.75,
+        "z": 144.29
+      },
+      {
+        "x": 145.62,
+        "y": 64.75,
+        "z": 144.29
+      },
+      {
+        "x": 145.62,
+        "y": 64.75,
+        "z": 160.88
+      },
+      {
+        "x": 169.21,
+        "y": 64.75,
+        "z": 160.88
+      },
+      {
+        "x": 169.21,
+        "y": 56.37,
+        "z": 160.88
+      },
+      {
+        "x": 169.21,
+        "y": 56.37,
+        "z": 137.03
+      }
+    ],
+    "status": "Published",
+    "capturedAtUtc": "2026-07-26T16:48:42.207Z",
+    "publishedAtUtc": "2026-07-26T17:59:24.694Z",
+    "clientLengthFeet": 103.18,
+    "clientVersion": "field-1.4.1",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-26T17:59:24.694Z",
+        "actor": "CREW-04"
+      }
+    ]
+  },
+  {
+    "id": "SK-1018",
+    "packageId": "PKG-DUCT-L04",
+    "crewId": "CREW-01",
+    "discipline": "Piping",
+    "diameterInches": 8,
+    "material": "Grooved Carbon Steel",
+    "nodes": [
+      {
+        "x": 1.08,
+        "y": 23.83,
+        "z": 125.33
+      },
+      {
+        "x": 1.08,
+        "y": 23.83,
+        "z": 105.13
+      },
+      {
+        "x": -39.07,
+        "y": 23.83,
+        "z": 105.13
+      },
+      {
+        "x": -39.07,
+        "y": 23.83,
+        "z": 88.75
+      },
+      {
+        "x": -73.06,
+        "y": 23.83,
+        "z": 88.75
+      }
+    ],
+    "status": "Published",
+    "capturedAtUtc": "2026-07-28T00:28:58.991Z",
+    "publishedAtUtc": "2026-07-28T01:17:33.884Z",
+    "clientLengthFeet": 110.72,
+    "clientVersion": "field-1.4.0",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-28T01:17:33.884Z",
+        "actor": "CREW-01"
+      }
+    ]
+  },
+  {
+    "id": "SK-1019",
+    "packageId": "PKG-DUCT-L06",
+    "crewId": "CREW-06",
+    "discipline": "Electrical",
+    "diameterInches": 0.75,
+    "material": "PVC Sch40",
+    "nodes": [
+      {
+        "x": 91.58,
+        "y": 23.26,
+        "z": 97.68
+      },
+      {
+        "x": 116.59,
+        "y": 23.26,
+        "z": 97.68
+      },
+      {
+        "x": 116.59,
+        "y": 23.26,
+        "z": 54.36
+      }
+    ],
+    "status": "Approved",
+    "capturedAtUtc": "2026-07-23T10:48:37.679Z",
+    "publishedAtUtc": "2026-07-23T11:50:05.385Z",
+    "clientLengthFeet": 68.33,
+    "clientVersion": "field-1.4.2",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-23T11:50:05.385Z",
+        "actor": "CREW-06"
+      },
+      {
+        "from": "Published",
+        "to": "UnderReview",
+        "atUtc": "2026-07-24T01:57:07.888Z",
+        "actor": "shop-planner"
+      },
+      {
+        "from": "UnderReview",
+        "to": "Approved",
+        "atUtc": "2026-07-24T19:11:02.579Z",
+        "actor": "shop-planner"
+      }
+    ]
+  },
+  {
+    "id": "SK-1020",
+    "packageId": "PKG-DUCT-L04",
+    "crewId": "CREW-06",
+    "discipline": "Piping",
+    "diameterInches": 1,
+    "material": "Grooved Carbon Steel",
+    "nodes": [
+      {
+        "x": 211.03,
+        "y": 64.8,
+        "z": 170.74
+      },
+      {
+        "x": 211.03,
+        "y": 64.8,
+        "z": 158.58
+      },
+      {
+        "x": 236.76,
+        "y": 64.8,
+        "z": 158.58
+      },
+      {
+        "x": 236.76,
+        "y": 64.8,
+        "z": 173.91
+      }
+    ],
+    "status": "Approved",
+    "capturedAtUtc": "2026-07-22T14:25:41.317Z",
+    "publishedAtUtc": "2026-07-22T14:59:03.012Z",
+    "clientLengthFeet": 53.22,
+    "clientVersion": "field-1.4.1",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-22T14:59:03.012Z",
+        "actor": "CREW-06"
+      },
+      {
+        "from": "Published",
+        "to": "UnderReview",
+        "atUtc": "2026-07-23T15:38:20.032Z",
+        "actor": "shop-planner"
+      },
+      {
+        "from": "UnderReview",
+        "to": "Approved",
+        "atUtc": "2026-07-24T11:02:33.422Z",
+        "actor": "shop-planner"
+      }
+    ]
+  },
+  {
+    "id": "SK-1021",
+    "packageId": "PKG-ELEC-L03",
+    "crewId": "CREW-01",
+    "discipline": "Piping",
+    "diameterInches": 2,
+    "material": "Carbon Steel",
+    "nodes": [
+      {
+        "x": 102.08,
+        "y": 48.92,
+        "z": 132.36
+      },
+      {
+        "x": 102.08,
+        "y": 48.92,
+        "z": 99.95
+      },
+      {
+        "x": 60.95,
+        "y": 48.92,
+        "z": 99.95
+      },
+      {
+        "x": 60.95,
+        "y": 48.92,
+        "z": 86.2
+      }
+    ],
+    "status": "Approved",
+    "capturedAtUtc": "2026-07-26T08:46:42.655Z",
+    "publishedAtUtc": "2026-07-26T09:57:46.602Z",
+    "clientLengthFeet": 87.29,
+    "clientVersion": "field-1.4.0",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-26T09:57:46.602Z",
+        "actor": "CREW-01"
+      },
+      {
+        "from": "Published",
+        "to": "UnderReview",
+        "atUtc": "2026-07-27T04:22:20.779Z",
+        "actor": "shop-planner"
+      },
+      {
+        "from": "UnderReview",
+        "to": "Approved",
+        "atUtc": "2026-07-27T17:11:36.689Z",
+        "actor": "shop-planner"
+      }
+    ]
+  },
+  {
+    "id": "SK-1022",
+    "packageId": "PKG-CHW-L03",
+    "crewId": "CREW-02",
+    "discipline": "Electrical",
+    "diameterInches": 1.25,
+    "material": "PVC Sch40",
+    "nodes": [
+      {
+        "x": 95.74,
+        "y": 63.75,
+        "z": 55.46
+      },
+      {
+        "x": 124.53,
+        "y": 63.75,
+        "z": 55.46
+      },
+      {
+        "x": 124.53,
+        "y": 63.75,
+        "z": 24.03
+      }
+    ],
+    "status": "Published",
+    "capturedAtUtc": "2026-07-22T22:08:21.949Z",
+    "publishedAtUtc": "2026-07-22T22:38:00.277Z",
+    "clientLengthFeet": 60.22,
+    "clientVersion": "field-1.4.2",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-22T22:38:00.277Z",
+        "actor": "CREW-02"
+      }
+    ]
+  },
+  {
+    "id": "SK-1023",
+    "packageId": "PKG-DUCT-L06",
+    "crewId": "CREW-06",
+    "discipline": "SheetMetal",
+    "diameterInches": 14,
+    "material": "Stainless 304",
+    "nodes": [
+      {
+        "x": 40.96,
+        "y": 8.53,
+        "z": 59.65
+      },
+      {
+        "x": 15.81,
+        "y": 8.53,
+        "z": 59.65
+      },
+      {
+        "x": 15.81,
+        "y": 8.53,
+        "z": 88.45
+      }
+    ],
+    "status": "Published",
+    "capturedAtUtc": "2026-07-28T11:18:38.717Z",
+    "publishedAtUtc": "2026-07-28T11:41:58.960Z",
+    "clientLengthFeet": 53.95,
+    "clientVersion": "field-1.4.2",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-28T11:41:58.960Z",
+        "actor": "CREW-06"
+      }
+    ]
+  },
+  {
+    "id": "SK-1024",
+    "packageId": "PKG-MED-GAS-L01",
+    "crewId": "CREW-06",
+    "discipline": "Piping",
+    "diameterInches": 3,
+    "material": "Grooved Carbon Steel",
+    "nodes": [
+      {
+        "x": 108.31,
+        "y": 51.09,
+        "z": 53.6
+      },
+      {
+        "x": 146.59,
+        "y": 51.09,
+        "z": 53.6
+      },
+      {
+        "x": 146.59,
+        "y": 51.09,
+        "z": 17.58
+      },
+      {
+        "x": 171.87,
+        "y": 51.09,
+        "z": 17.58
+      }
+    ],
+    "status": "Approved",
+    "capturedAtUtc": "2026-07-17T03:22:37.653Z",
+    "publishedAtUtc": "2026-07-17T04:06:14.195Z",
+    "clientLengthFeet": 99.58,
+    "clientVersion": "field-1.4.1",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-17T04:06:14.195Z",
+        "actor": "CREW-06"
+      },
+      {
+        "from": "Published",
+        "to": "UnderReview",
+        "atUtc": "2026-07-17T23:30:33.183Z",
+        "actor": "shop-planner"
+      },
+      {
+        "from": "UnderReview",
+        "to": "Approved",
+        "atUtc": "2026-07-18T06:10:35.539Z",
+        "actor": "shop-planner"
+      }
+    ]
+  },
+  {
+    "id": "SK-1025",
+    "packageId": "PKG-HHW-L02",
+    "crewId": "CREW-04",
+    "discipline": "SheetMetal",
+    "diameterInches": 14,
+    "material": "Galvanized 26ga",
+    "nodes": [
+      {
+        "x": 237.48,
+        "y": 50.09,
+        "z": 107.96
+      },
+      {
+        "x": 274.17,
+        "y": 50.09,
+        "z": 107.96
+      },
+      {
+        "x": 274.17,
+        "y": 50.09,
+        "z": 135.42
+      },
+      {
+        "x": 293.53,
+        "y": 50.09,
+        "z": 135.42
+      }
+    ],
+    "status": "Rejected",
+    "capturedAtUtc": "2026-07-12T18:34:08.385Z",
+    "publishedAtUtc": "2026-07-12T19:08:27.381Z",
+    "clientLengthFeet": 83.51,
+    "clientVersion": "field-1.4.0",
+    "reviewNotes": "Diameter does not match the approved schedule for this package.",
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-12T19:08:27.381Z",
+        "actor": "CREW-04"
+      },
+      {
+        "from": "Published",
+        "to": "UnderReview",
+        "atUtc": "2026-07-12T22:18:55.153Z",
+        "actor": "shop-planner"
+      },
+      {
+        "from": "UnderReview",
+        "to": "Rejected",
+        "atUtc": "2026-07-13T05:05:10.293Z",
+        "actor": "shop-planner"
+      }
+    ]
+  },
+  {
+    "id": "SK-1026",
+    "packageId": "PKG-MED-GAS-L01",
+    "crewId": "CREW-02",
+    "discipline": "Piping",
+    "diameterInches": 2,
+    "material": "Grooved Carbon Steel",
+    "nodes": [
+      {
+        "x": 125.69,
+        "y": 63.58,
+        "z": 28.59
+      },
+      {
+        "x": 125.69,
+        "y": 63.58,
+        "z": 2.24
+      },
+      {
+        "x": 146.88,
+        "y": 63.58,
+        "z": 2.24
+      },
+      {
+        "x": 146.88,
+        "y": 63.58,
+        "z": 43.99
+      },
+      {
+        "x": 118.76,
+        "y": 63.58,
+        "z": 43.99
+      },
+      {
+        "x": 118.76,
+        "y": 48.7,
+        "z": 43.99
+      },
+      {
+        "x": 118.76,
+        "y": 48.7,
+        "z": 19.67
+      }
+    ],
+    "status": "Approved",
+    "capturedAtUtc": "2026-07-27T18:35:48.279Z",
+    "publishedAtUtc": "2026-07-27T19:13:28.605Z",
+    "clientLengthFeet": 141.73,
+    "clientVersion": "field-1.4.0",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-27T19:13:28.605Z",
+        "actor": "CREW-02"
+      },
+      {
+        "from": "Published",
+        "to": "UnderReview",
+        "atUtc": "2026-07-27T21:31:34.565Z",
+        "actor": "shop-planner"
+      },
+      {
+        "from": "UnderReview",
+        "to": "Approved",
+        "atUtc": "2026-07-28T15:16:42.518Z",
+        "actor": "shop-planner"
+      }
+    ]
+  },
+  {
+    "id": "SK-1027",
+    "packageId": "PKG-DUCT-L06",
+    "crewId": "CREW-01",
+    "discipline": "SheetMetal",
+    "diameterInches": 18,
+    "material": "Galvanized 26ga",
+    "nodes": [
+      {
+        "x": 170.32,
+        "y": 37.25,
+        "z": 63.41
+      },
+      {
+        "x": 170.32,
+        "y": 37.25,
+        "z": 79.82
+      }
+    ],
+    "status": "Approved",
+    "capturedAtUtc": "2026-07-25T17:29:53.802Z",
+    "publishedAtUtc": "2026-07-25T18:18:51.071Z",
+    "clientLengthFeet": 16.41,
+    "clientVersion": "field-1.4.2",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-25T18:18:51.071Z",
+        "actor": "CREW-01"
+      },
+      {
+        "from": "Published",
+        "to": "UnderReview",
+        "atUtc": "2026-07-26T06:19:23.578Z",
+        "actor": "shop-planner"
+      },
+      {
+        "from": "UnderReview",
+        "to": "Approved",
+        "atUtc": "2026-07-26T13:39:05.133Z",
+        "actor": "shop-planner"
+      }
+    ]
+  },
+  {
+    "id": "SK-1028",
+    "packageId": "PKG-DUCT-L06",
+    "crewId": "CREW-05",
+    "discipline": "Piping",
+    "diameterInches": 6,
+    "material": "Grooved Carbon Steel",
+    "nodes": [
+      {
+        "x": 26.4,
+        "y": 23.22,
+        "z": 106.43
+      },
+      {
+        "x": -0.02,
+        "y": 23.22,
+        "z": 106.43
+      },
+      {
+        "x": -0.02,
+        "y": 23.22,
+        "z": 88.01
+      },
+      {
+        "x": 15.74,
+        "y": 23.22,
+        "z": 88.01
+      }
+    ],
+    "status": "Published",
+    "capturedAtUtc": "2026-07-12T21:09:07.506Z",
+    "publishedAtUtc": "2026-07-12T21:30:41.748Z",
+    "clientLengthFeet": 60.6,
+    "clientVersion": "field-1.4.0",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-12T21:30:41.748Z",
+        "actor": "CREW-05"
+      }
+    ]
+  },
+  {
+    "id": "SK-1029",
+    "packageId": "PKG-CHW-L02",
+    "crewId": "CREW-04",
+    "discipline": "SheetMetal",
+    "diameterInches": 8,
+    "material": "Galvanized 26ga",
+    "nodes": [
+      {
+        "x": 13.26,
+        "y": 22.48,
+        "z": 40.58
+      },
+      {
+        "x": -5.2,
+        "y": 22.48,
+        "z": 40.58
+      },
+      {
+        "x": -5.2,
+        "y": 22.48,
+        "z": 29.64
+      }
+    ],
+    "status": "Published",
+    "capturedAtUtc": "2026-07-30T14:42:19.959Z",
+    "publishedAtUtc": "2026-07-30T15:20:23.335Z",
+    "clientLengthFeet": 29.4,
+    "clientVersion": "field-1.4.0",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-30T15:20:23.335Z",
+        "actor": "CREW-04"
+      }
+    ]
+  },
+  {
+    "id": "SK-1030",
+    "packageId": "PKG-DUCT-L04",
+    "crewId": "CREW-04",
+    "discipline": "Piping",
+    "diameterInches": 8,
+    "material": "Carbon Steel",
+    "nodes": [
+      {
+        "x": 8.43,
+        "y": 10.5,
+        "z": 27.34
+      },
+      {
+        "x": -13.46,
+        "y": 10.5,
+        "z": 27.34
+      },
+      {
+        "x": -13.46,
+        "y": 10.5,
+        "z": -16.5
+      },
+      {
+        "x": -37.95,
+        "y": 10.5,
+        "z": -16.5
+      }
+    ],
+    "status": "Approved",
+    "capturedAtUtc": "2026-07-12T01:03:20.369Z",
+    "publishedAtUtc": "2026-07-12T01:30:28.874Z",
+    "clientLengthFeet": 90.22,
+    "clientVersion": "field-1.4.0",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-12T01:30:28.874Z",
+        "actor": "CREW-04"
+      },
+      {
+        "from": "Published",
+        "to": "UnderReview",
+        "atUtc": "2026-07-12T11:22:23.417Z",
+        "actor": "shop-planner"
+      },
+      {
+        "from": "UnderReview",
+        "to": "Approved",
+        "atUtc": "2026-07-13T06:00:22.358Z",
+        "actor": "shop-planner"
+      }
+    ]
+  },
+  {
+    "id": "SK-1031",
+    "packageId": "PKG-DUCT-L06",
+    "crewId": "CREW-05",
+    "discipline": "Piping",
+    "diameterInches": 3,
+    "material": "Copper Type L",
+    "nodes": [
+      {
+        "x": 111.63,
+        "y": 48.96,
+        "z": 116.78
+      },
+      {
+        "x": 117.93,
+        "y": 48.96,
+        "z": 116.78
+      }
+    ],
+    "status": "Published",
+    "capturedAtUtc": "2026-07-27T07:02:10.251Z",
+    "publishedAtUtc": "2026-07-27T08:16:18.356Z",
+    "clientLengthFeet": 6.3,
+    "clientVersion": "field-1.4.1",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-27T08:16:18.356Z",
+        "actor": "CREW-05"
+      }
+    ]
+  },
+  {
+    "id": "SK-1032",
+    "packageId": "PKG-HHW-L02",
+    "crewId": "CREW-01",
+    "discipline": "Piping",
+    "diameterInches": 2,
+    "material": "CPVC",
+    "nodes": [
+      {
+        "x": 49.68,
+        "y": 8.68,
+        "z": 126.01
+      },
+      {
+        "x": 49.68,
+        "y": 8.68,
+        "z": 91.9
+      },
+      {
+        "x": 33.55,
+        "y": 8.68,
+        "z": 91.9
+      }
+    ],
+    "status": "Published",
+    "capturedAtUtc": "2026-07-24T22:59:45.928Z",
+    "publishedAtUtc": "2026-07-25T00:16:03.742Z",
+    "clientLengthFeet": 50.24,
+    "clientVersion": "field-1.4.1",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-25T00:16:03.742Z",
+        "actor": "CREW-01"
+      }
+    ]
+  },
+  {
+    "id": "SK-1033",
+    "packageId": "PKG-ELEC-L03",
+    "crewId": "CREW-04",
+    "discipline": "Electrical",
+    "diameterInches": 1,
+    "material": "EMT",
+    "nodes": [
+      {
+        "x": 61.35,
+        "y": 64.38,
+        "z": 156.38
+      },
+      {
+        "x": 84.15,
+        "y": 64.38,
+        "z": 156.38
+      },
+      {
+        "x": 84.15,
+        "y": 55.8,
+        "z": 156.38
+      }
+    ],
+    "status": "UnderReview",
+    "capturedAtUtc": "2026-07-13T15:36:55.411Z",
+    "publishedAtUtc": "2026-07-13T16:56:24.369Z",
+    "clientLengthFeet": 22.8,
+    "clientVersion": "field-1.4.0",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-13T16:56:24.369Z",
+        "actor": "CREW-04"
+      },
+      {
+        "from": "Published",
+        "to": "UnderReview",
+        "atUtc": "2026-07-14T18:37:34.123Z",
+        "actor": "shop-planner"
+      }
+    ]
+  },
+  {
+    "id": "SK-1034",
+    "packageId": "PKG-ELEC-L03",
+    "crewId": "CREW-05",
+    "discipline": "SheetMetal",
+    "diameterInches": 18,
+    "material": "Galvanized 24ga",
+    "nodes": [
+      {
+        "x": 32.56,
+        "y": 50.95,
+        "z": 81.11
+      },
+      {
+        "x": 32.56,
+        "y": 50.95,
+        "z": 121.15
+      },
+      {
+        "x": 4.46,
+        "y": 50.95,
+        "z": 121.15
+      },
+      {
+        "x": 4.46,
+        "y": 50.95,
+        "z": 156.78
+      },
+      {
+        "x": 19.46,
+        "y": 50.95,
+        "z": 156.78
+      }
+    ],
+    "status": "Approved",
+    "capturedAtUtc": "2026-07-16T18:17:01.321Z",
+    "publishedAtUtc": "2026-07-16T18:43:59.750Z",
+    "clientLengthFeet": 118.77,
+    "clientVersion": "field-1.4.0",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-16T18:43:59.750Z",
+        "actor": "CREW-05"
+      },
+      {
+        "from": "Published",
+        "to": "UnderReview",
+        "atUtc": "2026-07-16T20:39:49.982Z",
+        "actor": "shop-planner"
+      },
+      {
+        "from": "UnderReview",
+        "to": "Approved",
+        "atUtc": "2026-07-17T13:34:06.803Z",
+        "actor": "shop-planner"
+      }
+    ]
+  },
+  {
+    "id": "SK-1035",
+    "packageId": "PKG-CHW-L03",
+    "crewId": "CREW-06",
+    "discipline": "Piping",
+    "diameterInches": 2,
+    "material": "Grooved Carbon Steel",
+    "nodes": [
+      {
+        "x": 166.16,
+        "y": 10.93,
+        "z": 82.81
+      },
+      {
+        "x": 166.16,
+        "y": 10.93,
+        "z": 41.64
+      },
+      {
+        "x": 179.68,
+        "y": 10.93,
+        "z": 41.64
+      },
+      {
+        "x": 179.68,
+        "y": 10.93,
+        "z": 65.84
+      }
+    ],
+    "status": "Published",
+    "capturedAtUtc": "2026-07-17T20:05:10.890Z",
+    "publishedAtUtc": "2026-07-17T21:20:41.437Z",
+    "clientLengthFeet": 78.89,
+    "clientVersion": "field-1.4.1",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-17T21:20:41.437Z",
+        "actor": "CREW-06"
+      }
+    ]
+  },
+  {
+    "id": "SK-1036",
+    "packageId": "PKG-ELEC-L03",
+    "crewId": "CREW-04",
+    "discipline": "Piping",
+    "diameterInches": 1.5,
+    "material": "CPVC",
+    "nodes": [
+      {
+        "x": 204.74,
+        "y": 21.99,
+        "z": 98.01
+      },
+      {
+        "x": 204.74,
+        "y": 21.99,
+        "z": 141.81
+      },
+      {
+        "x": 221.24,
+        "y": 21.99,
+        "z": 141.81
+      },
+      {
+        "x": 221.24,
+        "y": 21.99,
+        "z": 107.39
+      },
+      {
+        "x": 188.85,
+        "y": 21.99,
+        "z": 107.39
+      },
+      {
+        "x": 188.85,
+        "y": 31.95,
+        "z": 107.39
+      },
+      {
+        "x": 188.85,
+        "y": 31.95,
+        "z": 135.05
+      }
+    ],
+    "status": "Approved",
+    "capturedAtUtc": "2026-07-14T18:44:10.299Z",
+    "publishedAtUtc": "2026-07-14T19:28:39.697Z",
+    "clientLengthFeet": 154.77,
+    "clientVersion": "field-1.4.2",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-14T19:28:39.697Z",
+        "actor": "CREW-04"
+      },
+      {
+        "from": "Published",
+        "to": "UnderReview",
+        "atUtc": "2026-07-15T09:42:44.045Z",
+        "actor": "shop-planner"
+      },
+      {
+        "from": "UnderReview",
+        "to": "Approved",
+        "atUtc": "2026-07-15T22:57:24.867Z",
+        "actor": "shop-planner"
+      }
+    ]
+  },
+  {
+    "id": "SK-1037",
+    "packageId": "PKG-CHW-L02",
+    "crewId": "CREW-02",
+    "discipline": "SheetMetal",
+    "diameterInches": 24,
+    "material": "Galvanized 26ga",
+    "nodes": [
+      {
+        "x": 26.42,
+        "y": 8.09,
+        "z": 18.31
+      },
+      {
+        "x": 26.42,
+        "y": 8.09,
+        "z": 42.2
+      },
+      {
+        "x": 38.33,
+        "y": 8.09,
+        "z": 42.2
+      },
+      {
+        "x": 38.33,
+        "y": 8.09,
+        "z": 20.38
+      },
+      {
+        "x": 8.38,
+        "y": 8.09,
+        "z": 20.38
+      }
+    ],
+    "status": "Published",
+    "capturedAtUtc": "2026-07-31T02:50:14.759Z",
+    "publishedAtUtc": "2026-07-31T03:38:42.276Z",
+    "clientLengthFeet": 87.57,
+    "clientVersion": "field-1.4.0",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-31T03:38:42.276Z",
+        "actor": "CREW-02"
+      }
+    ]
+  },
+  {
+    "id": "SK-1038",
+    "packageId": "PKG-CHW-L03",
+    "crewId": "CREW-06",
+    "discipline": "Electrical",
+    "diameterInches": 0.75,
+    "material": "Rigid",
+    "nodes": [
+      {
+        "x": 72.87,
+        "y": 21.76,
+        "z": 4.65
+      },
+      {
+        "x": 72.87,
+        "y": 21.76,
+        "z": 23.5
+      },
+      {
+        "x": 55.24,
+        "y": 21.76,
+        "z": 23.5
+      },
+      {
+        "x": 55.24,
+        "y": 21.76,
+        "z": -17.31
+      }
+    ],
+    "status": "Published",
+    "capturedAtUtc": "2026-07-23T15:10:42.848Z",
+    "publishedAtUtc": "2026-07-23T16:22:16.520Z",
+    "clientLengthFeet": 77.29,
+    "clientVersion": "field-1.4.2",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-23T16:22:16.520Z",
+        "actor": "CREW-06"
+      }
+    ]
+  },
+  {
+    "id": "SK-1039",
+    "packageId": "PKG-DUCT-L04",
+    "crewId": "CREW-04",
+    "discipline": "Electrical",
+    "diameterInches": 1,
+    "material": "Rigid",
+    "nodes": [
+      {
+        "x": 65.51,
+        "y": 23.9,
+        "z": 121.73
+      },
+      {
+        "x": 46.34,
+        "y": 23.9,
+        "z": 121.73
+      }
+    ],
+    "status": "Approved",
+    "capturedAtUtc": "2026-07-28T04:53:15.703Z",
+    "publishedAtUtc": "2026-07-28T04:57:14.953Z",
+    "clientLengthFeet": 19.17,
+    "clientVersion": "field-1.4.2",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-28T04:57:14.953Z",
+        "actor": "CREW-04"
+      },
+      {
+        "from": "Published",
+        "to": "UnderReview",
+        "atUtc": "2026-07-29T06:01:09.107Z",
+        "actor": "shop-planner"
+      },
+      {
+        "from": "UnderReview",
+        "to": "Approved",
+        "atUtc": "2026-07-29T18:57:53.588Z",
+        "actor": "shop-planner"
+      }
+    ]
+  },
+  {
+    "id": "SK-1040",
+    "packageId": "PKG-MED-GAS-L01",
+    "crewId": "CREW-06",
+    "discipline": "Piping",
+    "diameterInches": 1.5,
+    "material": "Grooved Carbon Steel",
+    "nodes": [
+      {
+        "x": 93.94,
+        "y": 35.74,
+        "z": 174.46
+      },
+      {
+        "x": 93.94,
+        "y": 35.74,
+        "z": 134.02
+      },
+      {
+        "x": 128.2,
+        "y": 35.74,
+        "z": 134.02
+      }
+    ],
+    "status": "Approved",
+    "capturedAtUtc": "2026-07-16T09:07:29.099Z",
+    "publishedAtUtc": "2026-07-16T10:02:59.741Z",
+    "clientLengthFeet": 74.7,
+    "clientVersion": "field-1.4.0",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-16T10:02:59.741Z",
+        "actor": "CREW-06"
+      },
+      {
+        "from": "Published",
+        "to": "UnderReview",
+        "atUtc": "2026-07-16T15:44:38.401Z",
+        "actor": "shop-planner"
+      },
+      {
+        "from": "UnderReview",
+        "to": "Approved",
+        "atUtc": "2026-07-16T18:23:38.899Z",
+        "actor": "shop-planner"
+      }
+    ]
+  },
+  {
+    "id": "SK-1041",
+    "packageId": "PKG-HHW-L02",
+    "crewId": "CREW-03",
+    "discipline": "Piping",
+    "diameterInches": 1,
+    "material": "Copper Type L",
+    "nodes": [
+      {
+        "x": 134.12,
+        "y": 49.35,
+        "z": 1.98
+      },
+      {
+        "x": 127.41,
+        "y": 49.35,
+        "z": 1.98
+      }
+    ],
+    "status": "Published",
+    "capturedAtUtc": "2026-07-25T13:13:10.182Z",
+    "publishedAtUtc": "2026-07-25T13:53:14.574Z",
+    "clientLengthFeet": 6.71,
+    "clientVersion": "field-1.4.2",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-25T13:53:14.574Z",
+        "actor": "CREW-03"
+      }
+    ]
+  },
+  {
+    "id": "SK-1042",
+    "packageId": "PKG-CHW-L03",
+    "crewId": "CREW-06",
+    "discipline": "SheetMetal",
+    "diameterInches": 10,
+    "material": "Galvanized 24ga",
+    "nodes": [
+      {
+        "x": 87.13,
+        "y": 10.82,
+        "z": 63.39
+      },
+      {
+        "x": 87.13,
+        "y": 10.82,
+        "z": 37.56
+      }
+    ],
+    "status": "Approved",
+    "capturedAtUtc": "2026-07-30T11:40:09.462Z",
+    "publishedAtUtc": "2026-07-30T12:13:48.108Z",
+    "clientLengthFeet": 25.83,
+    "clientVersion": "field-1.4.1",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-30T12:13:48.108Z",
+        "actor": "CREW-06"
+      },
+      {
+        "from": "Published",
+        "to": "UnderReview",
+        "atUtc": "2026-07-31T14:20:54.241Z",
+        "actor": "shop-planner"
+      },
+      {
+        "from": "UnderReview",
+        "to": "Approved",
+        "atUtc": "2026-08-01T02:54:34.816Z",
+        "actor": "shop-planner"
+      }
+    ]
+  },
+  {
+    "id": "SK-1043",
+    "packageId": "PKG-HHW-L02",
+    "crewId": "CREW-04",
+    "discipline": "Piping",
+    "diameterInches": 2,
+    "material": "CPVC",
+    "nodes": [
+      {
+        "x": 165.75,
+        "y": 49.57,
+        "z": 42.44
+      },
+      {
+        "x": 194.37,
+        "y": 49.57,
+        "z": 42.44
+      },
+      {
+        "x": 194.37,
+        "y": 49.57,
+        "z": 84.92
+      },
+      {
+        "x": 194.37,
+        "y": 36.34,
+        "z": 84.92
+      }
+    ],
+    "status": "UnderReview",
+    "capturedAtUtc": "2026-07-30T13:10:16.515Z",
+    "publishedAtUtc": "2026-07-30T14:13:43.186Z",
+    "clientLengthFeet": 71.1,
+    "clientVersion": "field-1.4.2",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-30T14:13:43.186Z",
+        "actor": "CREW-04"
+      },
+      {
+        "from": "Published",
+        "to": "UnderReview",
+        "atUtc": "2026-07-31T19:26:04.480Z",
+        "actor": "shop-planner"
+      }
+    ]
+  },
+  {
+    "id": "SK-1044",
+    "packageId": "PKG-MED-GAS-L01",
+    "crewId": "CREW-02",
+    "discipline": "SheetMetal",
+    "diameterInches": 8,
+    "material": "Stainless 304",
+    "nodes": [
+      {
+        "x": 205.34,
+        "y": 50.1,
+        "z": 109.35
+      },
+      {
+        "x": 180.87,
+        "y": 50.1,
+        "z": 109.35
+      },
+      {
+        "x": 180.87,
+        "y": 50.1,
+        "z": 133.66
+      },
+      {
+        "x": 162.1,
+        "y": 50.1,
+        "z": 133.66
+      },
+      {
+        "x": 162.1,
+        "y": 50.1,
+        "z": 95.74
+      }
+    ],
+    "status": "UnderReview",
+    "capturedAtUtc": "2026-07-11T20:27:12.560Z",
+    "publishedAtUtc": "2026-07-11T21:14:13.557Z",
+    "clientLengthFeet": 105.47,
+    "clientVersion": "field-1.4.2",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-11T21:14:13.557Z",
+        "actor": "CREW-02"
+      },
+      {
+        "from": "Published",
+        "to": "UnderReview",
+        "atUtc": "2026-07-12T01:15:43.666Z",
+        "actor": "shop-planner"
+      }
+    ]
+  },
+  {
+    "id": "SK-1045",
+    "packageId": "PKG-DUCT-L04",
+    "crewId": "CREW-05",
+    "discipline": "Piping",
+    "diameterInches": 6,
+    "material": "Carbon Steel",
+    "nodes": [
+      {
+        "x": 154.07,
+        "y": 62.38,
+        "z": 137.26
+      },
+      {
+        "x": 129.09,
+        "y": 62.38,
+        "z": 137.26
+      },
+      {
+        "x": 129.09,
+        "y": 62.38,
+        "z": 123.89
+      },
+      {
+        "x": 129.09,
+        "y": 47.6,
+        "z": 123.89
+      },
+      {
+        "x": 105.75,
+        "y": 47.6,
+        "z": 123.89
+      }
+    ],
+    "status": "Approved",
+    "capturedAtUtc": "2026-07-17T02:38:04.346Z",
+    "publishedAtUtc": "2026-07-17T03:33:39.740Z",
+    "clientLengthFeet": 61.69,
+    "clientVersion": "field-1.4.1",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-17T03:33:39.740Z",
+        "actor": "CREW-05"
+      },
+      {
+        "from": "Published",
+        "to": "UnderReview",
+        "atUtc": "2026-07-17T13:47:53.623Z",
+        "actor": "shop-planner"
+      },
+      {
+        "from": "UnderReview",
+        "to": "Approved",
+        "atUtc": "2026-07-18T09:38:11.886Z",
+        "actor": "shop-planner"
+      }
+    ]
+  },
+  {
+    "id": "SK-1046",
+    "packageId": "PKG-CHW-L05",
+    "crewId": "CREW-02",
+    "discipline": "Electrical",
+    "diameterInches": 1.25,
+    "material": "EMT",
+    "nodes": [
+      {
+        "x": 20.08,
+        "y": 35.16,
+        "z": 162.21
+      },
+      {
+        "x": 20.08,
+        "y": 35.16,
+        "z": 175.07
+      },
+      {
+        "x": 51.26,
+        "y": 35.16,
+        "z": 175.07
+      },
+      {
+        "x": 51.26,
+        "y": 35.16,
+        "z": 205.63
+      },
+      {
+        "x": 83.47,
+        "y": 35.16,
+        "z": 205.63
+      }
+    ],
+    "status": "UnderReview",
+    "capturedAtUtc": "2026-07-20T04:06:37.778Z",
+    "publishedAtUtc": "2026-07-20T05:20:35.746Z",
+    "clientLengthFeet": 106.81,
+    "clientVersion": "field-1.4.2",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-20T05:20:35.746Z",
+        "actor": "CREW-02"
+      },
+      {
+        "from": "Published",
+        "to": "UnderReview",
+        "atUtc": "2026-07-21T05:50:14.509Z",
+        "actor": "shop-planner"
+      }
+    ]
+  },
+  {
+    "id": "SK-1047",
+    "packageId": "PKG-ELEC-L03",
+    "crewId": "CREW-01",
+    "discipline": "Electrical",
+    "diameterInches": 2,
+    "material": "PVC Sch40",
+    "nodes": [
+      {
+        "x": 158.3,
+        "y": 10.42,
+        "z": 14.21
+      },
+      {
+        "x": 158.3,
+        "y": 10.42,
+        "z": 38.5
+      }
+    ],
+    "status": "UnderReview",
+    "capturedAtUtc": "2026-07-27T01:39:36.443Z",
+    "publishedAtUtc": "2026-07-27T02:11:52.872Z",
+    "clientLengthFeet": 24.29,
+    "clientVersion": "field-1.4.2",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-27T02:11:52.872Z",
+        "actor": "CREW-01"
+      },
+      {
+        "from": "Published",
+        "to": "UnderReview",
+        "atUtc": "2026-07-27T05:52:47.025Z",
+        "actor": "shop-planner"
+      }
+    ]
+  },
+  {
+    "id": "SK-1048",
+    "packageId": "PKG-ELEC-L03",
+    "crewId": "CREW-03",
+    "discipline": "Electrical",
+    "diameterInches": 1.25,
+    "material": "PVC Sch40",
+    "nodes": [
+      {
+        "x": 78.94,
+        "y": 10.08,
+        "z": 40.67
+      },
+      {
+        "x": 78.94,
+        "y": 10.08,
+        "z": 49.64
+      },
+      {
+        "x": 92.04,
+        "y": 10.08,
+        "z": 49.64
+      }
+    ],
+    "status": "Published",
+    "capturedAtUtc": "2026-07-18T05:01:35.069Z",
+    "publishedAtUtc": "2026-07-18T05:15:49.466Z",
+    "clientLengthFeet": 22.07,
+    "clientVersion": "field-1.4.2",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-18T05:15:49.466Z",
+        "actor": "CREW-03"
+      }
+    ]
+  },
+  {
+    "id": "SK-1049",
+    "packageId": "PKG-DUCT-L06",
+    "crewId": "CREW-02",
+    "discipline": "SheetMetal",
+    "diameterInches": 18,
+    "material": "Galvanized 26ga",
+    "nodes": [
+      {
+        "x": 117.29,
+        "y": 64.78,
+        "z": 102.42
+      },
+      {
+        "x": 117.29,
+        "y": 64.78,
+        "z": 133.76
+      },
+      {
+        "x": 99.57,
+        "y": 64.78,
+        "z": 133.76
+      },
+      {
+        "x": 99.57,
+        "y": 64.78,
+        "z": 175.95
+      }
+    ],
+    "status": "UnderReview",
+    "capturedAtUtc": "2026-07-17T13:02:19.471Z",
+    "publishedAtUtc": "2026-07-17T13:21:24.666Z",
+    "clientLengthFeet": 91.25,
+    "clientVersion": "field-1.4.2",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-17T13:21:24.666Z",
+        "actor": "CREW-02"
+      },
+      {
+        "from": "Published",
+        "to": "UnderReview",
+        "atUtc": "2026-07-17T21:52:27.580Z",
+        "actor": "shop-planner"
+      }
+    ]
+  },
+  {
+    "id": "SK-1050",
+    "packageId": "PKG-DUCT-L04",
+    "crewId": "CREW-06",
+    "discipline": "Electrical",
+    "diameterInches": 1,
+    "material": "Rigid",
+    "nodes": [
+      {
+        "x": 78.73,
+        "y": 62.46,
+        "z": 53.5
+      },
+      {
+        "x": 61.79,
+        "y": 62.46,
+        "z": 53.5
+      },
+      {
+        "x": 61.79,
+        "y": 54.54,
+        "z": 53.5
+      }
+    ],
+    "status": "Approved",
+    "capturedAtUtc": "2026-07-17T00:34:44.675Z",
+    "publishedAtUtc": "2026-07-17T01:06:12.275Z",
+    "clientLengthFeet": 16.94,
+    "clientVersion": "field-1.4.2",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-17T01:06:12.275Z",
+        "actor": "CREW-06"
+      },
+      {
+        "from": "Published",
+        "to": "UnderReview",
+        "atUtc": "2026-07-17T23:37:17.834Z",
+        "actor": "shop-planner"
+      },
+      {
+        "from": "UnderReview",
+        "to": "Approved",
+        "atUtc": "2026-07-18T01:43:15.241Z",
+        "actor": "shop-planner"
+      }
+    ]
+  },
+  {
+    "id": "SK-1051",
+    "packageId": "PKG-CHW-L05",
+    "crewId": "CREW-06",
+    "discipline": "Piping",
+    "diameterInches": 1.5,
+    "material": "Copper Type L",
+    "nodes": [
+      {
+        "x": 45.56,
+        "y": 24.05,
+        "z": 65.76
+      },
+      {
+        "x": 88.02,
+        "y": 24.05,
+        "z": 65.76
+      },
+      {
+        "x": 88.02,
+        "y": 24.05,
+        "z": 87.07
+      }
+    ],
+    "status": "Approved",
+    "capturedAtUtc": "2026-07-21T00:55:56.612Z",
+    "publishedAtUtc": "2026-07-21T02:22:51.371Z",
+    "clientLengthFeet": 63.77,
+    "clientVersion": "field-1.4.0",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-21T02:22:51.371Z",
+        "actor": "CREW-06"
+      },
+      {
+        "from": "Published",
+        "to": "UnderReview",
+        "atUtc": "2026-07-21T14:37:16.407Z",
+        "actor": "shop-planner"
+      },
+      {
+        "from": "UnderReview",
+        "to": "Approved",
+        "atUtc": "2026-07-22T01:13:57.135Z",
+        "actor": "shop-planner"
+      }
+    ]
+  },
+  {
+    "id": "SK-1052",
+    "packageId": "PKG-DUCT-L06",
+    "crewId": "CREW-05",
+    "discipline": "Electrical",
+    "diameterInches": 1.25,
+    "material": "Rigid",
+    "nodes": [
+      {
+        "x": 42.13,
+        "y": 21.58,
+        "z": 49.56
+      },
+      {
+        "x": 42.13,
+        "y": 21.58,
+        "z": 33.13
+      },
+      {
+        "x": 54.64,
+        "y": 21.58,
+        "z": 33.13
+      }
+    ],
+    "status": "Approved",
+    "capturedAtUtc": "2026-07-12T15:47:33.609Z",
+    "publishedAtUtc": "2026-07-12T15:50:06.224Z",
+    "clientLengthFeet": 28.94,
+    "clientVersion": "field-1.4.2",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-12T15:50:06.224Z",
+        "actor": "CREW-05"
+      },
+      {
+        "from": "Published",
+        "to": "UnderReview",
+        "atUtc": "2026-07-12T17:57:03.606Z",
+        "actor": "shop-planner"
+      },
+      {
+        "from": "UnderReview",
+        "to": "Approved",
+        "atUtc": "2026-07-13T04:40:45.991Z",
+        "actor": "shop-planner"
+      }
+    ]
+  },
+  {
+    "id": "SK-1053",
+    "packageId": "PKG-ELEC-L03",
+    "crewId": "CREW-04",
+    "discipline": "Piping",
+    "diameterInches": 8,
+    "material": "Grooved Carbon Steel",
+    "nodes": [
+      {
+        "x": 147.92,
+        "y": 10.05,
+        "z": 139.05
+      },
+      {
+        "x": 155.86,
+        "y": 10.05,
+        "z": 139.05
+      },
+      {
+        "x": 155.86,
+        "y": 10.05,
+        "z": 145.7
+      },
+      {
+        "x": 116.58,
+        "y": 10.05,
+        "z": 145.7
+      },
+      {
+        "x": 116.58,
+        "y": 10.05,
+        "z": 120.19
+      }
+    ],
+    "status": "Rejected",
+    "capturedAtUtc": "2026-08-01T04:28:30.750Z",
+    "publishedAtUtc": "2026-08-01T04:33:03.121Z",
+    "clientLengthFeet": 79.38,
+    "clientVersion": "field-1.4.1",
+    "reviewNotes": "Missing takeoff at the branch. Please add the tee node.",
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-08-01T04:33:03.121Z",
+        "actor": "CREW-04"
+      },
+      {
+        "from": "Published",
+        "to": "UnderReview",
+        "atUtc": "2026-08-01T13:00:28.117Z",
+        "actor": "shop-planner"
+      },
+      {
+        "from": "UnderReview",
+        "to": "Rejected",
+        "atUtc": "2026-08-01T19:26:46.475Z",
+        "actor": "shop-planner"
+      }
+    ]
+  },
+  {
+    "id": "SK-1054",
+    "packageId": "PKG-CHW-L03",
+    "crewId": "CREW-06",
+    "discipline": "Electrical",
+    "diameterInches": 1,
+    "material": "Rigid",
+    "nodes": [
+      {
+        "x": 227.47,
+        "y": 62.35,
+        "z": 10.24
+      },
+      {
+        "x": 227.47,
+        "y": 62.35,
+        "z": -5.12
+      }
+    ],
+    "status": "Approved",
+    "capturedAtUtc": "2026-07-26T05:04:34.497Z",
+    "publishedAtUtc": "2026-07-26T05:36:50.463Z",
+    "clientLengthFeet": 15.36,
+    "clientVersion": "field-1.4.0",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-26T05:36:50.463Z",
+        "actor": "CREW-06"
+      },
+      {
+        "from": "Published",
+        "to": "UnderReview",
+        "atUtc": "2026-07-27T02:07:34.604Z",
+        "actor": "shop-planner"
+      },
+      {
+        "from": "UnderReview",
+        "to": "Approved",
+        "atUtc": "2026-07-27T19:54:19.983Z",
+        "actor": "shop-planner"
+      }
+    ]
+  },
+  {
+    "id": "SK-1055",
+    "packageId": "PKG-ELEC-L03",
+    "crewId": "CREW-06",
+    "discipline": "Piping",
+    "diameterInches": 2,
+    "material": "Carbon Steel",
+    "nodes": [
+      {
+        "x": 42.27,
+        "y": 35.62,
+        "z": 173.63
+      },
+      {
+        "x": 42.27,
+        "y": 35.62,
+        "z": 217.19
+      },
+      {
+        "x": 24.61,
+        "y": 35.62,
+        "z": 217.19
+      }
+    ],
+    "status": "Published",
+    "capturedAtUtc": "2026-07-29T05:33:49.810Z",
+    "publishedAtUtc": "2026-07-29T05:56:51.011Z",
+    "clientLengthFeet": 61.22,
+    "clientVersion": "field-1.4.1",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-29T05:56:51.011Z",
+        "actor": "CREW-06"
+      }
+    ]
+  },
+  {
+    "id": "SK-1056",
+    "packageId": "PKG-HHW-L02",
+    "crewId": "CREW-03",
+    "discipline": "SheetMetal",
+    "diameterInches": 12,
+    "material": "Galvanized 24ga",
+    "nodes": [
+      {
+        "x": 121.11,
+        "y": 9.18,
+        "z": 170.54
+      },
+      {
+        "x": 88.1,
+        "y": 9.18,
+        "z": 170.54
+      },
+      {
+        "x": 88.1,
+        "y": 9.18,
+        "z": 154.13
+      },
+      {
+        "x": 111.61,
+        "y": 9.18,
+        "z": 154.13
+      }
+    ],
+    "status": "Published",
+    "capturedAtUtc": "2026-07-24T17:18:17.279Z",
+    "publishedAtUtc": "2026-07-24T18:39:51.459Z",
+    "clientLengthFeet": 72.93,
+    "clientVersion": "field-1.4.1",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-24T18:39:51.459Z",
+        "actor": "CREW-03"
+      }
+    ]
+  },
+  {
+    "id": "SK-1057",
+    "packageId": "PKG-CHW-L02",
+    "crewId": "CREW-03",
+    "discipline": "Piping",
+    "diameterInches": 6,
+    "material": "Grooved Carbon Steel",
+    "nodes": [
+      {
+        "x": 141.84,
+        "y": 10.4,
+        "z": 112.28
+      },
+      {
+        "x": 130.94,
+        "y": 10.4,
+        "z": 112.28
+      }
+    ],
+    "status": "Published",
+    "capturedAtUtc": "2026-07-15T15:10:21.560Z",
+    "publishedAtUtc": "2026-07-15T16:28:46.724Z",
+    "clientLengthFeet": 10.9,
+    "clientVersion": "field-1.4.2",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-15T16:28:46.724Z",
+        "actor": "CREW-03"
+      }
+    ]
+  },
+  {
+    "id": "SK-1058",
+    "packageId": "PKG-CHW-L03",
+    "crewId": "CREW-06",
+    "discipline": "SheetMetal",
+    "diameterInches": 18,
+    "material": "Galvanized 24ga",
+    "nodes": [
+      {
+        "x": 223.71,
+        "y": 50.82,
+        "z": 177.08
+      },
+      {
+        "x": 259.57,
+        "y": 50.82,
+        "z": 177.08
+      },
+      {
+        "x": 259.57,
+        "y": 50.82,
+        "z": 205.06
+      },
+      {
+        "x": 243.94,
+        "y": 50.82,
+        "z": 205.06
+      }
+    ],
+    "status": "UnderReview",
+    "capturedAtUtc": "2026-07-30T13:26:30.958Z",
+    "publishedAtUtc": "2026-07-30T14:21:24.395Z",
+    "clientLengthFeet": 79.47,
+    "clientVersion": "field-1.4.0",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-30T14:21:24.395Z",
+        "actor": "CREW-06"
+      },
+      {
+        "from": "Published",
+        "to": "UnderReview",
+        "atUtc": "2026-07-30T21:31:55.280Z",
+        "actor": "shop-planner"
+      }
+    ]
+  },
+  {
+    "id": "SK-1059",
+    "packageId": "PKG-MED-GAS-L01",
+    "crewId": "CREW-04",
+    "discipline": "SheetMetal",
+    "diameterInches": 10,
+    "material": "Galvanized 26ga",
+    "nodes": [
+      {
+        "x": 111.03,
+        "y": 23.88,
+        "z": 45.56
+      },
+      {
+        "x": 99.72,
+        "y": 23.88,
+        "z": 45.56
+      },
+      {
+        "x": 99.72,
+        "y": 23.88,
+        "z": 84.04
+      },
+      {
+        "x": 87.87,
+        "y": 23.88,
+        "z": 84.04
+      }
+    ],
+    "status": "Published",
+    "capturedAtUtc": "2026-07-17T03:49:10.087Z",
+    "publishedAtUtc": "2026-07-17T04:09:20.609Z",
+    "clientLengthFeet": 61.64,
+    "clientVersion": "field-1.4.0",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-17T04:09:20.609Z",
+        "actor": "CREW-04"
+      }
+    ]
+  },
+  {
+    "id": "SK-1060",
+    "packageId": "PKG-MED-GAS-L01",
+    "crewId": "CREW-01",
+    "discipline": "Piping",
+    "diameterInches": 2,
+    "material": "Carbon Steel",
+    "nodes": [
+      {
+        "x": 171.73,
+        "y": 35.87,
+        "z": 116.62
+      },
+      {
+        "x": 134.5,
+        "y": 35.87,
+        "z": 116.62
+      },
+      {
+        "x": 134.5,
+        "y": 35.87,
+        "z": 94.69
+      },
+      {
+        "x": 154.17,
+        "y": 35.87,
+        "z": 94.69
+      }
+    ],
+    "status": "Published",
+    "capturedAtUtc": "2026-07-22T05:16:54.314Z",
+    "publishedAtUtc": "2026-07-22T05:45:37.226Z",
+    "clientLengthFeet": 78.83,
+    "clientVersion": "field-1.4.1",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-22T05:45:37.226Z",
+        "actor": "CREW-01"
+      }
+    ]
+  },
+  {
+    "id": "SK-1061",
+    "packageId": "PKG-CHW-L03",
+    "crewId": "CREW-06",
+    "discipline": "Electrical",
+    "diameterInches": 2,
+    "material": "EMT",
+    "nodes": [
+      {
+        "x": 25.54,
+        "y": 21.52,
+        "z": 26.48
+      },
+      {
+        "x": 25.54,
+        "y": 21.52,
+        "z": 9.14
+      },
+      {
+        "x": 10.62,
+        "y": 21.52,
+        "z": 9.14
+      },
+      {
+        "x": 10.62,
+        "y": 21.52,
+        "z": 40.85
+      },
+      {
+        "x": -5.17,
+        "y": 21.52,
+        "z": 40.85
+      }
+    ],
+    "status": "Approved",
+    "capturedAtUtc": "2026-07-21T04:44:03.984Z",
+    "publishedAtUtc": "2026-07-21T05:28:48.867Z",
+    "clientLengthFeet": 79.76,
+    "clientVersion": "field-1.4.2",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-21T05:28:48.867Z",
+        "actor": "CREW-06"
+      },
+      {
+        "from": "Published",
+        "to": "UnderReview",
+        "atUtc": "2026-07-21T20:53:28.165Z",
+        "actor": "shop-planner"
+      },
+      {
+        "from": "UnderReview",
+        "to": "Approved",
+        "atUtc": "2026-07-22T10:29:00.100Z",
+        "actor": "shop-planner"
+      }
+    ]
+  },
+  {
+    "id": "SK-1062",
+    "packageId": "PKG-CHW-L05",
+    "crewId": "CREW-05",
+    "discipline": "Piping",
+    "diameterInches": 8,
+    "material": "Copper Type L",
+    "nodes": [
+      {
+        "x": 118.99,
+        "y": 23.89,
+        "z": 12.19
+      },
+      {
+        "x": 138.49,
+        "y": 23.89,
+        "z": 12.19
+      },
+      {
+        "x": 138.49,
+        "y": 23.89,
+        "z": 53.39
+      },
+      {
+        "x": 109.21,
+        "y": 23.89,
+        "z": 53.39
+      },
+      {
+        "x": 109.21,
+        "y": 23.89,
+        "z": 83.32
+      },
+      {
+        "x": 109.21,
+        "y": 10.47,
+        "z": 83.32
+      },
+      {
+        "x": 126.23,
+        "y": 10.47,
+        "z": 83.32
+      }
+    ],
+    "status": "Approved",
+    "capturedAtUtc": "2026-07-31T14:54:53.488Z",
+    "publishedAtUtc": "2026-07-31T16:13:42.572Z",
+    "clientLengthFeet": 136.93,
+    "clientVersion": "field-1.4.0",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-31T16:13:42.572Z",
+        "actor": "CREW-05"
+      },
+      {
+        "from": "Published",
+        "to": "UnderReview",
+        "atUtc": "2026-08-01T15:05:57.905Z",
+        "actor": "shop-planner"
+      },
+      {
+        "from": "UnderReview",
+        "to": "Approved",
+        "atUtc": "2026-08-02T04:57:54.295Z",
+        "actor": "shop-planner"
+      }
+    ]
+  },
+  {
+    "id": "SK-1063",
+    "packageId": "PKG-ELEC-L03",
+    "crewId": "CREW-01",
+    "discipline": "Electrical",
+    "diameterInches": 0.75,
+    "material": "Rigid",
+    "nodes": [
+      {
+        "x": 208.66,
+        "y": 63.49,
+        "z": 88.36
+      },
+      {
+        "x": 171.89,
+        "y": 63.49,
+        "z": 88.36
+      },
+      {
+        "x": 171.89,
+        "y": 63.49,
+        "z": 123
+      }
+    ],
+    "status": "Published",
+    "capturedAtUtc": "2026-07-13T16:07:39.440Z",
+    "publishedAtUtc": "2026-07-13T17:04:02.672Z",
+    "clientLengthFeet": 71.41,
+    "clientVersion": "field-1.4.0",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-13T17:04:02.672Z",
+        "actor": "CREW-01"
+      }
+    ]
+  },
+  {
+    "id": "SK-1064",
+    "packageId": "PKG-CHW-L03",
+    "crewId": "CREW-04",
+    "discipline": "SheetMetal",
+    "diameterInches": 24,
+    "material": "Galvanized 26ga",
+    "nodes": [
+      {
+        "x": 202.19,
+        "y": 36.17,
+        "z": 161.69
+      },
+      {
+        "x": 202.19,
+        "y": 36.17,
+        "z": 190.57
+      },
+      {
+        "x": 183.24,
+        "y": 36.17,
+        "z": 190.57
+      },
+      {
+        "x": 183.24,
+        "y": 36.17,
+        "z": 151.9
+      },
+      {
+        "x": 149.96,
+        "y": 36.17,
+        "z": 151.9
+      }
+    ],
+    "status": "Approved",
+    "capturedAtUtc": "2026-07-19T23:46:51.481Z",
+    "publishedAtUtc": "2026-07-20T00:22:50.694Z",
+    "clientLengthFeet": 119.78,
+    "clientVersion": "field-1.4.1",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-20T00:22:50.694Z",
+        "actor": "CREW-04"
+      },
+      {
+        "from": "Published",
+        "to": "UnderReview",
+        "atUtc": "2026-07-21T05:42:01.714Z",
+        "actor": "shop-planner"
+      },
+      {
+        "from": "UnderReview",
+        "to": "Approved",
+        "atUtc": "2026-07-21T21:39:03.701Z",
+        "actor": "shop-planner"
+      }
+    ]
+  },
+  {
+    "id": "SK-1065",
+    "packageId": "PKG-DUCT-L04",
+    "crewId": "CREW-06",
+    "discipline": "Electrical",
+    "diameterInches": 0.75,
+    "material": "EMT",
+    "nodes": [
+      {
+        "x": 114.74,
+        "y": 50.69,
+        "z": 117.29
+      },
+      {
+        "x": 98.48,
+        "y": 50.69,
+        "z": 117.29
+      },
+      {
+        "x": 98.48,
+        "y": 50.69,
+        "z": 134.56
+      },
+      {
+        "x": 57.32,
+        "y": 50.69,
+        "z": 134.56
+      },
+      {
+        "x": 57.32,
+        "y": 50.69,
+        "z": 176.74
+      }
+    ],
+    "status": "Approved",
+    "capturedAtUtc": "2026-07-22T02:32:21.876Z",
+    "publishedAtUtc": "2026-07-22T03:01:40.123Z",
+    "clientLengthFeet": 116.87,
+    "clientVersion": "field-1.4.0",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-22T03:01:40.123Z",
+        "actor": "CREW-06"
+      },
+      {
+        "from": "Published",
+        "to": "UnderReview",
+        "atUtc": "2026-07-23T07:13:49.824Z",
+        "actor": "shop-planner"
+      },
+      {
+        "from": "UnderReview",
+        "to": "Approved",
+        "atUtc": "2026-07-23T20:47:36.743Z",
+        "actor": "shop-planner"
+      }
+    ]
+  },
+  {
+    "id": "SK-1066",
+    "packageId": "PKG-MED-GAS-L01",
+    "crewId": "CREW-02",
+    "discipline": "SheetMetal",
+    "diameterInches": 24,
+    "material": "Galvanized 26ga",
+    "nodes": [
+      {
+        "x": 228.32,
+        "y": 62.88,
+        "z": 64.48
+      },
+      {
+        "x": 188.21,
+        "y": 62.88,
+        "z": 64.48
+      },
+      {
+        "x": 188.21,
+        "y": 62.88,
+        "z": 102.11
+      }
+    ],
+    "status": "Published",
+    "capturedAtUtc": "2026-07-18T14:22:18.552Z",
+    "publishedAtUtc": "2026-07-18T14:56:11.125Z",
+    "clientLengthFeet": 77.74,
+    "clientVersion": "field-1.4.2",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-18T14:56:11.125Z",
+        "actor": "CREW-02"
+      }
+    ]
+  },
+  {
+    "id": "SK-1067",
+    "packageId": "PKG-CHW-L03",
+    "crewId": "CREW-04",
+    "discipline": "Electrical",
+    "diameterInches": 1.25,
+    "material": "PVC Sch40",
+    "nodes": [
+      {
+        "x": 30.96,
+        "y": 49.65,
+        "z": 36.94
+      },
+      {
+        "x": 56.05,
+        "y": 49.65,
+        "z": 36.94
+      },
+      {
+        "x": 56.05,
+        "y": 49.65,
+        "z": 45.33
+      },
+      {
+        "x": 81.59,
+        "y": 49.65,
+        "z": 45.33
+      },
+      {
+        "x": 81.59,
+        "y": 40.66,
+        "z": 45.33
+      },
+      {
+        "x": 81.59,
+        "y": 40.66,
+        "z": 17.83
+      }
+    ],
+    "status": "Approved",
+    "capturedAtUtc": "2026-07-15T19:48:58.324Z",
+    "publishedAtUtc": "2026-07-15T21:04:35.896Z",
+    "clientLengthFeet": 86.52,
+    "clientVersion": "field-1.4.1",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-15T21:04:35.896Z",
+        "actor": "CREW-04"
+      },
+      {
+        "from": "Published",
+        "to": "UnderReview",
+        "atUtc": "2026-07-16T12:20:59.094Z",
+        "actor": "shop-planner"
+      },
+      {
+        "from": "UnderReview",
+        "to": "Approved",
+        "atUtc": "2026-07-17T00:11:39.633Z",
+        "actor": "shop-planner"
+      }
+    ]
+  },
+  {
+    "id": "SK-1068",
+    "packageId": "PKG-HHW-L02",
+    "crewId": "CREW-01",
+    "discipline": "Piping",
+    "diameterInches": 8,
+    "material": "CPVC",
+    "nodes": [
+      {
+        "x": 178.58,
+        "y": 35.08,
+        "z": 74.9
+      },
+      {
+        "x": 151.54,
+        "y": 35.08,
+        "z": 74.9
+      }
+    ],
+    "status": "Published",
+    "capturedAtUtc": "2026-07-29T11:41:41.320Z",
+    "publishedAtUtc": "2026-07-29T12:52:24.185Z",
+    "clientLengthFeet": 27.04,
+    "clientVersion": "field-1.4.2",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-29T12:52:24.185Z",
+        "actor": "CREW-01"
+      }
+    ]
+  },
+  {
+    "id": "SK-1069",
+    "packageId": "PKG-CHW-L05",
+    "crewId": "CREW-01",
+    "discipline": "Piping",
+    "diameterInches": 1.5,
+    "material": "CPVC",
+    "nodes": [
+      {
+        "x": 89.65,
+        "y": 50.24,
+        "z": 118.56
+      },
+      {
+        "x": 105.63,
+        "y": 50.24,
+        "z": 118.56
+      }
+    ],
+    "status": "Published",
+    "capturedAtUtc": "2026-07-19T19:56:59.283Z",
+    "publishedAtUtc": "2026-07-19T21:16:49.355Z",
+    "clientLengthFeet": 15.98,
+    "clientVersion": "field-1.4.2",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-19T21:16:49.355Z",
+        "actor": "CREW-01"
+      }
+    ]
+  },
+  {
+    "id": "SK-1070",
+    "packageId": "PKG-DUCT-L06",
+    "crewId": "CREW-01",
+    "discipline": "Electrical",
+    "diameterInches": 1.25,
+    "material": "Rigid",
+    "nodes": [
+      {
+        "x": 46.58,
+        "y": 63.79,
+        "z": 24.8
+      },
+      {
+        "x": 46.58,
+        "y": 63.79,
+        "z": -7.49
+      },
+      {
+        "x": 5.61,
+        "y": 63.79,
+        "z": -7.49
+      }
+    ],
+    "status": "Published",
+    "capturedAtUtc": "2026-07-16T18:45:54.416Z",
+    "publishedAtUtc": "2026-07-16T19:49:20.733Z",
+    "clientLengthFeet": 73.26,
+    "clientVersion": "field-1.4.1",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-16T19:49:20.733Z",
+        "actor": "CREW-01"
+      }
+    ]
+  },
+  {
+    "id": "SK-1071",
+    "packageId": "PKG-CHW-L05",
+    "crewId": "CREW-05",
+    "discipline": "SheetMetal",
+    "diameterInches": 24,
+    "material": "Stainless 304",
+    "nodes": [
+      {
+        "x": 69.42,
+        "y": 64.43,
+        "z": 156.03
+      },
+      {
+        "x": 69.42,
+        "y": 64.43,
+        "z": 130.73
+      },
+      {
+        "x": 46.67,
+        "y": 64.43,
+        "z": 130.73
+      }
+    ],
+    "status": "Published",
+    "capturedAtUtc": "2026-07-21T03:44:28.058Z",
+    "publishedAtUtc": "2026-07-21T05:11:44.376Z",
+    "clientLengthFeet": 48.05,
+    "clientVersion": "field-1.4.2",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-21T05:11:44.376Z",
+        "actor": "CREW-05"
+      }
+    ]
+  },
+  {
+    "id": "SK-1072",
+    "packageId": "PKG-CHW-L02",
+    "crewId": "CREW-05",
+    "discipline": "Piping",
+    "diameterInches": 1.5,
+    "material": "Carbon Steel",
+    "nodes": [
+      {
+        "x": 87.88,
+        "y": 49.69,
+        "z": 87.5
+      },
+      {
+        "x": 87.88,
+        "y": 49.69,
+        "z": 95.09
+      },
+      {
+        "x": 60.2,
+        "y": 49.69,
+        "z": 95.09
+      },
+      {
+        "x": 60.2,
+        "y": 49.69,
+        "z": 124.18
+      },
+      {
+        "x": 44.47,
+        "y": 49.69,
+        "z": 124.18
+      }
+    ],
+    "status": "Approved",
+    "capturedAtUtc": "2026-07-20T00:45:33.369Z",
+    "publishedAtUtc": "2026-07-20T00:58:57.284Z",
+    "clientLengthFeet": 80.09,
+    "clientVersion": "field-1.4.2",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-20T00:58:57.284Z",
+        "actor": "CREW-05"
+      },
+      {
+        "from": "Published",
+        "to": "UnderReview",
+        "atUtc": "2026-07-20T14:58:46.133Z",
+        "actor": "shop-planner"
+      },
+      {
+        "from": "UnderReview",
+        "to": "Approved",
+        "atUtc": "2026-07-21T06:30:22.146Z",
+        "actor": "shop-planner"
+      }
+    ]
+  },
+  {
+    "id": "SK-1073",
+    "packageId": "PKG-DUCT-L04",
+    "crewId": "CREW-06",
+    "discipline": "Piping",
+    "diameterInches": 4,
+    "material": "Carbon Steel",
+    "nodes": [
+      {
+        "x": 155.16,
+        "y": 23.1,
+        "z": 55.65
+      },
+      {
+        "x": 126.39,
+        "y": 23.1,
+        "z": 55.65
+      },
+      {
+        "x": 126.39,
+        "y": 23.1,
+        "z": 33.34
+      },
+      {
+        "x": 104.17,
+        "y": 23.1,
+        "z": 33.34
+      },
+      {
+        "x": 104.17,
+        "y": 23.1,
+        "z": 55.47
+      }
+    ],
+    "status": "Published",
+    "capturedAtUtc": "2026-08-01T06:53:18.372Z",
+    "publishedAtUtc": "2026-08-01T08:09:29.792Z",
+    "clientLengthFeet": 95.43,
+    "clientVersion": "field-1.4.0",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-08-01T08:09:29.792Z",
+        "actor": "CREW-06"
+      }
+    ]
+  },
+  {
+    "id": "SK-1074",
+    "packageId": "PKG-MED-GAS-L01",
+    "crewId": "CREW-02",
+    "discipline": "Piping",
+    "diameterInches": 8,
+    "material": "Copper Type L",
+    "nodes": [
+      {
+        "x": 217.16,
+        "y": 51.41,
+        "z": 140.93
+      },
+      {
+        "x": 186.94,
+        "y": 51.41,
+        "z": 140.93
+      },
+      {
+        "x": 186.94,
+        "y": 51.41,
+        "z": 131.75
+      },
+      {
+        "x": 205.07,
+        "y": 51.41,
+        "z": 131.75
+      },
+      {
+        "x": 205.07,
+        "y": 51.41,
+        "z": 167.5
+      }
+    ],
+    "status": "Approved",
+    "capturedAtUtc": "2026-07-16T21:11:16.506Z",
+    "publishedAtUtc": "2026-07-16T22:05:24.950Z",
+    "clientLengthFeet": 93.28,
+    "clientVersion": "field-1.4.2",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-16T22:05:24.950Z",
+        "actor": "CREW-02"
+      },
+      {
+        "from": "Published",
+        "to": "UnderReview",
+        "atUtc": "2026-07-17T04:03:43.830Z",
+        "actor": "shop-planner"
+      },
+      {
+        "from": "UnderReview",
+        "to": "Approved",
+        "atUtc": "2026-07-17T08:27:11.725Z",
+        "actor": "shop-planner"
+      }
+    ]
+  },
+  {
+    "id": "SK-1075",
+    "packageId": "PKG-CHW-L03",
+    "crewId": "CREW-05",
+    "discipline": "Piping",
+    "diameterInches": 6,
+    "material": "Carbon Steel",
+    "nodes": [
+      {
+        "x": 99.05,
+        "y": 37.9,
+        "z": 148.84
+      },
+      {
+        "x": 61.25,
+        "y": 37.9,
+        "z": 148.84
+      },
+      {
+        "x": 61.25,
+        "y": 37.9,
+        "z": 169.33
+      },
+      {
+        "x": 91.9,
+        "y": 37.9,
+        "z": 169.33
+      },
+      {
+        "x": 91.9,
+        "y": 37.9,
+        "z": 184.96
+      }
+    ],
+    "status": "Published",
+    "capturedAtUtc": "2026-07-26T14:05:35.525Z",
+    "publishedAtUtc": "2026-07-26T15:24:27.828Z",
+    "clientLengthFeet": 104.57,
+    "clientVersion": "field-1.4.2",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-26T15:24:27.828Z",
+        "actor": "CREW-05"
+      }
+    ]
+  },
+  {
+    "id": "SK-1076",
+    "packageId": "PKG-DUCT-L04",
+    "crewId": "CREW-01",
+    "discipline": "SheetMetal",
+    "diameterInches": 10,
+    "material": "Galvanized 26ga",
+    "nodes": [
+      {
+        "x": 238.77,
+        "y": 35.61,
+        "z": 176.32
+      },
+      {
+        "x": 238.77,
+        "y": 35.61,
+        "z": 152.39
+      },
+      {
+        "x": 259.94,
+        "y": 35.61,
+        "z": 152.39
+      },
+      {
+        "x": 259.94,
+        "y": 35.61,
+        "z": 133.86
+      },
+      {
+        "x": 236.29,
+        "y": 35.61,
+        "z": 133.86
+      }
+    ],
+    "status": "Published",
+    "capturedAtUtc": "2026-07-13T21:44:41.718Z",
+    "publishedAtUtc": "2026-07-13T22:08:00.493Z",
+    "clientLengthFeet": 87.28,
+    "clientVersion": "field-1.4.0",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-13T22:08:00.493Z",
+        "actor": "CREW-01"
+      }
+    ]
+  },
+  {
+    "id": "SK-1077",
+    "packageId": "PKG-DUCT-L06",
+    "crewId": "CREW-05",
+    "discipline": "SheetMetal",
+    "diameterInches": 14,
+    "material": "Galvanized 26ga",
+    "nodes": [
+      {
+        "x": 50.9,
+        "y": 50.61,
+        "z": 160.85
+      },
+      {
+        "x": 76.39,
+        "y": 50.61,
+        "z": 160.85
+      }
+    ],
+    "status": "Approved",
+    "capturedAtUtc": "2026-07-17T04:00:11.334Z",
+    "publishedAtUtc": "2026-07-17T04:27:40.309Z",
+    "clientLengthFeet": 25.49,
+    "clientVersion": "field-1.4.0",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-17T04:27:40.309Z",
+        "actor": "CREW-05"
+      },
+      {
+        "from": "Published",
+        "to": "UnderReview",
+        "atUtc": "2026-07-18T02:01:23.682Z",
+        "actor": "shop-planner"
+      },
+      {
+        "from": "UnderReview",
+        "to": "Approved",
+        "atUtc": "2026-07-18T13:35:02.745Z",
+        "actor": "shop-planner"
+      }
+    ]
+  },
+  {
+    "id": "SK-1078",
+    "packageId": "PKG-ELEC-L03",
+    "crewId": "CREW-03",
+    "discipline": "SheetMetal",
+    "diameterInches": 14,
+    "material": "Galvanized 26ga",
+    "nodes": [
+      {
+        "x": 205.71,
+        "y": 64.03,
+        "z": 1.8
+      },
+      {
+        "x": 193.53,
+        "y": 64.03,
+        "z": 1.8
+      },
+      {
+        "x": 193.53,
+        "y": 64.03,
+        "z": 30.79
+      },
+      {
+        "x": 162.03,
+        "y": 64.03,
+        "z": 30.79
+      }
+    ],
+    "status": "Approved",
+    "capturedAtUtc": "2026-07-16T05:04:51.360Z",
+    "publishedAtUtc": "2026-07-16T05:49:24.940Z",
+    "clientLengthFeet": 72.67,
+    "clientVersion": "field-1.4.0",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-16T05:49:24.940Z",
+        "actor": "CREW-03"
+      },
+      {
+        "from": "Published",
+        "to": "UnderReview",
+        "atUtc": "2026-07-17T04:50:33.873Z",
+        "actor": "shop-planner"
+      },
+      {
+        "from": "UnderReview",
+        "to": "Approved",
+        "atUtc": "2026-07-17T20:36:49.833Z",
+        "actor": "shop-planner"
+      }
+    ]
+  },
+  {
+    "id": "SK-1079",
+    "packageId": "PKG-MED-GAS-L01",
+    "crewId": "CREW-05",
+    "discipline": "SheetMetal",
+    "diameterInches": 8,
+    "material": "Stainless 304",
+    "nodes": [
+      {
+        "x": 215.08,
+        "y": 8.69,
+        "z": 178.25
+      },
+      {
+        "x": 204.25,
+        "y": 8.69,
+        "z": 178.25
+      },
+      {
+        "x": 204.25,
+        "y": 1.54,
+        "z": 178.25
+      },
+      {
+        "x": 204.25,
+        "y": 1.54,
+        "z": 169.9
+      }
+    ],
+    "status": "Approved",
+    "capturedAtUtc": "2026-07-29T11:46:10.087Z",
+    "publishedAtUtc": "2026-07-29T11:49:41.761Z",
+    "clientLengthFeet": 19.18,
+    "clientVersion": "field-1.4.1",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-29T11:49:41.761Z",
+        "actor": "CREW-05"
+      },
+      {
+        "from": "Published",
+        "to": "UnderReview",
+        "atUtc": "2026-07-30T00:57:09.205Z",
+        "actor": "shop-planner"
+      },
+      {
+        "from": "UnderReview",
+        "to": "Approved",
+        "atUtc": "2026-07-30T16:30:12.764Z",
+        "actor": "shop-planner"
+      }
+    ]
+  },
+  {
+    "id": "SK-1080",
+    "packageId": "PKG-DUCT-L04",
+    "crewId": "CREW-02",
+    "discipline": "Piping",
+    "diameterInches": 8,
+    "material": "Grooved Carbon Steel",
+    "nodes": [
+      {
+        "x": 26.78,
+        "y": 8.41,
+        "z": 52.88
+      },
+      {
+        "x": 26.78,
+        "y": 8.41,
+        "z": 69.8
+      },
+      {
+        "x": 36.66,
+        "y": 8.41,
+        "z": 69.8
+      },
+      {
+        "x": 36.66,
+        "y": 8.41,
+        "z": 94.83
+      },
+      {
+        "x": 23.24,
+        "y": 8.41,
+        "z": 94.83
+      },
+      {
+        "x": 23.24,
+        "y": -6.66,
+        "z": 94.83
+      }
+    ],
+    "status": "Approved",
+    "capturedAtUtc": "2026-07-24T11:30:51.531Z",
+    "publishedAtUtc": "2026-07-24T11:53:45.445Z",
+    "clientLengthFeet": 65.25,
+    "clientVersion": "field-1.4.2",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-24T11:53:45.445Z",
+        "actor": "CREW-02"
+      },
+      {
+        "from": "Published",
+        "to": "UnderReview",
+        "atUtc": "2026-07-24T22:54:09.820Z",
+        "actor": "shop-planner"
+      },
+      {
+        "from": "UnderReview",
+        "to": "Approved",
+        "atUtc": "2026-07-25T16:06:56.554Z",
+        "actor": "shop-planner"
+      }
+    ]
+  },
+  {
+    "id": "SK-1081",
+    "packageId": "PKG-CHW-L02",
+    "crewId": "CREW-04",
+    "discipline": "Piping",
+    "diameterInches": 1.5,
+    "material": "Carbon Steel",
+    "nodes": [
+      {
+        "x": 73.58,
+        "y": 50.35,
+        "z": 12.66
+      },
+      {
+        "x": 73.58,
+        "y": 50.35,
+        "z": 51.3
+      },
+      {
+        "x": 42.13,
+        "y": 50.35,
+        "z": 51.3
+      }
+    ],
+    "status": "Published",
+    "capturedAtUtc": "2026-07-16T17:31:37.068Z",
+    "publishedAtUtc": "2026-07-16T18:02:12.193Z",
+    "clientLengthFeet": 70.09,
+    "clientVersion": "field-1.4.1",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-16T18:02:12.193Z",
+        "actor": "CREW-04"
+      }
+    ]
+  },
+  {
+    "id": "SK-1082",
+    "packageId": "PKG-DUCT-L04",
+    "crewId": "CREW-04",
+    "discipline": "Piping",
+    "diameterInches": 4,
+    "material": "CPVC",
+    "nodes": [
+      {
+        "x": 32.75,
+        "y": 22.04,
+        "z": 132.37
+      },
+      {
+        "x": 32.75,
+        "y": 22.04,
+        "z": 96.78
+      }
+    ],
+    "status": "Approved",
+    "capturedAtUtc": "2026-07-20T03:41:40.482Z",
+    "publishedAtUtc": "2026-07-20T04:49:28.253Z",
+    "clientLengthFeet": 35.59,
+    "clientVersion": "field-1.4.1",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-20T04:49:28.253Z",
+        "actor": "CREW-04"
+      },
+      {
+        "from": "Published",
+        "to": "UnderReview",
+        "atUtc": "2026-07-20T06:44:23.526Z",
+        "actor": "shop-planner"
+      },
+      {
+        "from": "UnderReview",
+        "to": "Approved",
+        "atUtc": "2026-07-21T02:22:54.514Z",
+        "actor": "shop-planner"
+      }
+    ]
+  },
+  {
+    "id": "SK-1083",
+    "packageId": "PKG-CHW-L05",
+    "crewId": "CREW-01",
+    "discipline": "Electrical",
+    "diameterInches": 1,
+    "material": "EMT",
+    "nodes": [
+      {
+        "x": 180.11,
+        "y": 22.99,
+        "z": 63.25
+      },
+      {
+        "x": 180.11,
+        "y": 22.99,
+        "z": 49.19
+      },
+      {
+        "x": 196.34,
+        "y": 22.99,
+        "z": 49.19
+      },
+      {
+        "x": 196.34,
+        "y": 22.99,
+        "z": 66.28
+      },
+      {
+        "x": 188.53,
+        "y": 22.99,
+        "z": 66.28
+      }
+    ],
+    "status": "Approved",
+    "capturedAtUtc": "2026-08-01T12:57:29.963Z",
+    "publishedAtUtc": "2026-08-01T13:55:24.179Z",
+    "clientLengthFeet": 55.19,
+    "clientVersion": "field-1.4.1",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-08-01T13:55:24.179Z",
+        "actor": "CREW-01"
+      },
+      {
+        "from": "Published",
+        "to": "UnderReview",
+        "atUtc": "2026-08-02T04:38:15.817Z",
+        "actor": "shop-planner"
+      },
+      {
+        "from": "UnderReview",
+        "to": "Approved",
+        "atUtc": "2026-08-02T19:10:59.820Z",
+        "actor": "shop-planner"
+      }
+    ]
+  },
+  {
+    "id": "SK-1084",
+    "packageId": "PKG-ELEC-L03",
+    "crewId": "CREW-02",
+    "discipline": "SheetMetal",
+    "diameterInches": 12,
+    "material": "Stainless 304",
+    "nodes": [
+      {
+        "x": 59.11,
+        "y": 23.33,
+        "z": 26.84
+      },
+      {
+        "x": 49.11,
+        "y": 23.33,
+        "z": 26.84
+      },
+      {
+        "x": 49.11,
+        "y": 23.33,
+        "z": -4.53
+      },
+      {
+        "x": 67.58,
+        "y": 23.33,
+        "z": -4.53
+      },
+      {
+        "x": 67.58,
+        "y": 23.33,
+        "z": 8.6
+      }
+    ],
+    "status": "Rejected",
+    "capturedAtUtc": "2026-07-18T11:12:59.599Z",
+    "publishedAtUtc": "2026-07-18T12:12:10.432Z",
+    "clientLengthFeet": 72.97,
+    "clientVersion": "field-1.4.0",
+    "reviewNotes": "Route conflicts with structural steel at grid C-4. Re-sketch below the beam.",
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-18T12:12:10.432Z",
+        "actor": "CREW-02"
+      },
+      {
+        "from": "Published",
+        "to": "UnderReview",
+        "atUtc": "2026-07-18T15:10:06.536Z",
+        "actor": "shop-planner"
+      },
+      {
+        "from": "UnderReview",
+        "to": "Rejected",
+        "atUtc": "2026-07-19T04:56:53.437Z",
+        "actor": "shop-planner"
+      }
+    ]
+  },
+  {
+    "id": "SK-1085",
+    "packageId": "PKG-HHW-L02",
+    "crewId": "CREW-06",
+    "discipline": "Piping",
+    "diameterInches": 3,
+    "material": "Copper Type L",
+    "nodes": [
+      {
+        "x": 6.52,
+        "y": 64.6,
+        "z": 96.51
+      },
+      {
+        "x": 6.52,
+        "y": 64.6,
+        "z": 87.69
+      },
+      {
+        "x": -17.61,
+        "y": 64.6,
+        "z": 87.69
+      },
+      {
+        "x": -17.61,
+        "y": 64.6,
+        "z": 109.5
+      }
+    ],
+    "status": "Published",
+    "capturedAtUtc": "2026-07-14T10:26:26.220Z",
+    "publishedAtUtc": "2026-07-14T11:03:58.128Z",
+    "clientLengthFeet": 54.76,
+    "clientVersion": "field-1.4.2",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-14T11:03:58.128Z",
+        "actor": "CREW-06"
+      }
+    ]
+  },
+  {
+    "id": "SK-1086",
+    "packageId": "PKG-DUCT-L06",
+    "crewId": "CREW-06",
+    "discipline": "Electrical",
+    "diameterInches": 1.25,
+    "material": "Rigid",
+    "nodes": [
+      {
+        "x": 179.15,
+        "y": 37.24,
+        "z": 46.25
+      },
+      {
+        "x": 179.15,
+        "y": 37.24,
+        "z": 6.9
+      },
+      {
+        "x": 138.26,
+        "y": 37.24,
+        "z": 6.9
+      },
+      {
+        "x": 138.26,
+        "y": 37.24,
+        "z": 49.76
+      },
+      {
+        "x": 104.17,
+        "y": 37.24,
+        "z": 49.76
+      }
+    ],
+    "status": "Published",
+    "capturedAtUtc": "2026-07-20T10:15:31.475Z",
+    "publishedAtUtc": "2026-07-20T11:10:59.645Z",
+    "clientLengthFeet": 157.19,
+    "clientVersion": "field-1.4.2",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-20T11:10:59.645Z",
+        "actor": "CREW-06"
+      }
+    ]
+  },
+  {
+    "id": "SK-1087",
+    "packageId": "PKG-CHW-L03",
+    "crewId": "CREW-04",
+    "discipline": "Electrical",
+    "diameterInches": 0.75,
+    "material": "Rigid",
+    "nodes": [
+      {
+        "x": 95.87,
+        "y": 50.67,
+        "z": 53.9
+      },
+      {
+        "x": 95.87,
+        "y": 50.67,
+        "z": 21.22
+      }
+    ],
+    "status": "Approved",
+    "capturedAtUtc": "2026-07-15T09:42:51.535Z",
+    "publishedAtUtc": "2026-07-15T09:45:51.412Z",
+    "clientLengthFeet": 32.68,
+    "clientVersion": "field-1.4.0",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-15T09:45:51.412Z",
+        "actor": "CREW-04"
+      },
+      {
+        "from": "Published",
+        "to": "UnderReview",
+        "atUtc": "2026-07-15T14:06:11.375Z",
+        "actor": "shop-planner"
+      },
+      {
+        "from": "UnderReview",
+        "to": "Approved",
+        "atUtc": "2026-07-15T15:16:05.799Z",
+        "actor": "shop-planner"
+      }
+    ]
+  },
+  {
+    "id": "SK-1088",
+    "packageId": "PKG-MED-GAS-L01",
+    "crewId": "CREW-05",
+    "discipline": "Piping",
+    "diameterInches": 3,
+    "material": "Carbon Steel",
+    "nodes": [
+      {
+        "x": 213.57,
+        "y": 62.42,
+        "z": 135.89
+      },
+      {
+        "x": 228.95,
+        "y": 62.42,
+        "z": 135.89
+      },
+      {
+        "x": 228.95,
+        "y": 62.42,
+        "z": 124.45
+      },
+      {
+        "x": 258.54,
+        "y": 62.42,
+        "z": 124.45
+      },
+      {
+        "x": 258.54,
+        "y": 62.42,
+        "z": 102.95
+      },
+      {
+        "x": 258.54,
+        "y": 77.7,
+        "z": 102.95
+      },
+      {
+        "x": 287.28,
+        "y": 77.7,
+        "z": 102.95
+      }
+    ],
+    "status": "Published",
+    "capturedAtUtc": "2026-07-24T02:56:30.369Z",
+    "publishedAtUtc": "2026-07-24T03:15:00.593Z",
+    "clientLengthFeet": 106.65,
+    "clientVersion": "field-1.4.0",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-24T03:15:00.593Z",
+        "actor": "CREW-05"
+      }
+    ]
+  },
+  {
+    "id": "SK-1089",
+    "packageId": "PKG-MED-GAS-L01",
+    "crewId": "CREW-05",
+    "discipline": "Electrical",
+    "diameterInches": 1,
+    "material": "PVC Sch40",
+    "nodes": [
+      {
+        "x": 99.99,
+        "y": 37.89,
+        "z": 3.69
+      },
+      {
+        "x": 140.27,
+        "y": 37.89,
+        "z": 3.69
+      },
+      {
+        "x": 140.27,
+        "y": 37.89,
+        "z": 43.42
+      },
+      {
+        "x": 130.07,
+        "y": 37.89,
+        "z": 43.42
+      },
+      {
+        "x": 130.07,
+        "y": 50.39,
+        "z": 43.42
+      },
+      {
+        "x": 130.07,
+        "y": 50.39,
+        "z": 54.28
+      }
+    ],
+    "status": "Approved",
+    "capturedAtUtc": "2026-07-29T02:50:32.412Z",
+    "publishedAtUtc": "2026-07-29T03:21:29.563Z",
+    "clientLengthFeet": 101.07,
+    "clientVersion": "field-1.4.2",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-29T03:21:29.563Z",
+        "actor": "CREW-05"
+      },
+      {
+        "from": "Published",
+        "to": "UnderReview",
+        "atUtc": "2026-07-30T04:27:38.609Z",
+        "actor": "shop-planner"
+      },
+      {
+        "from": "UnderReview",
+        "to": "Approved",
+        "atUtc": "2026-07-30T09:45:46.089Z",
+        "actor": "shop-planner"
+      }
+    ]
+  },
+  {
+    "id": "SK-1090",
+    "packageId": "PKG-MED-GAS-L01",
+    "crewId": "CREW-02",
+    "discipline": "SheetMetal",
+    "diameterInches": 10,
+    "material": "Stainless 304",
+    "nodes": [
+      {
+        "x": 67.19,
+        "y": 64.81,
+        "z": 127.31
+      },
+      {
+        "x": 67.19,
+        "y": 64.81,
+        "z": 147.9
+      }
+    ],
+    "status": "Approved",
+    "capturedAtUtc": "2026-07-22T07:35:47.880Z",
+    "publishedAtUtc": "2026-07-22T08:20:11.851Z",
+    "clientLengthFeet": 20.59,
+    "clientVersion": "field-1.4.2",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-22T08:20:11.851Z",
+        "actor": "CREW-02"
+      },
+      {
+        "from": "Published",
+        "to": "UnderReview",
+        "atUtc": "2026-07-22T14:17:15.997Z",
+        "actor": "shop-planner"
+      },
+      {
+        "from": "UnderReview",
+        "to": "Approved",
+        "atUtc": "2026-07-23T08:47:42.994Z",
+        "actor": "shop-planner"
+      }
+    ]
+  },
+  {
+    "id": "SK-1091",
+    "packageId": "PKG-CHW-L05",
+    "crewId": "CREW-02",
+    "discipline": "Piping",
+    "diameterInches": 1,
+    "material": "Copper Type L",
+    "nodes": [
+      {
+        "x": 139.23,
+        "y": 62.98,
+        "z": 50.58
+      },
+      {
+        "x": 139.23,
+        "y": 62.98,
+        "z": 77.57
+      }
+    ],
+    "status": "UnderReview",
+    "capturedAtUtc": "2026-07-16T23:14:12.634Z",
+    "publishedAtUtc": "2026-07-16T23:53:48.556Z",
+    "clientLengthFeet": 26.99,
+    "clientVersion": "field-1.4.1",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-16T23:53:48.556Z",
+        "actor": "CREW-02"
+      },
+      {
+        "from": "Published",
+        "to": "UnderReview",
+        "atUtc": "2026-07-17T18:10:03.312Z",
+        "actor": "shop-planner"
+      }
+    ]
+  },
+  {
+    "id": "SK-1092",
+    "packageId": "PKG-CHW-L05",
+    "crewId": "CREW-06",
+    "discipline": "Piping",
+    "diameterInches": 6,
+    "material": "CPVC",
+    "nodes": [
+      {
+        "x": 117.62,
+        "y": 49.14,
+        "z": 80.06
+      },
+      {
+        "x": 117.62,
+        "y": 49.14,
+        "z": 49.4
+      }
+    ],
+    "status": "Published",
+    "capturedAtUtc": "2026-07-29T18:12:34.692Z",
+    "publishedAtUtc": "2026-07-29T19:40:20.420Z",
+    "clientLengthFeet": 30.66,
+    "clientVersion": "field-1.4.2",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-29T19:40:20.420Z",
+        "actor": "CREW-06"
+      }
+    ]
+  },
+  {
+    "id": "SK-1093",
+    "packageId": "PKG-CHW-L05",
+    "crewId": "CREW-03",
+    "discipline": "SheetMetal",
+    "diameterInches": 14,
+    "material": "Stainless 304",
+    "nodes": [
+      {
+        "x": 19.78,
+        "y": 63.25,
+        "z": 6.07
+      },
+      {
+        "x": 62.24,
+        "y": 63.25,
+        "z": 6.07
+      }
+    ],
+    "status": "Rejected",
+    "capturedAtUtc": "2026-07-14T16:45:45.095Z",
+    "publishedAtUtc": "2026-07-14T17:34:19.419Z",
+    "clientLengthFeet": 42.46,
+    "clientVersion": "field-1.4.1",
+    "reviewNotes": "Diameter does not match the approved schedule for this package.",
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-14T17:34:19.419Z",
+        "actor": "CREW-03"
+      },
+      {
+        "from": "Published",
+        "to": "UnderReview",
+        "atUtc": "2026-07-15T16:24:12.671Z",
+        "actor": "shop-planner"
+      },
+      {
+        "from": "UnderReview",
+        "to": "Rejected",
+        "atUtc": "2026-07-16T10:13:36.263Z",
+        "actor": "shop-planner"
+      }
+    ]
+  },
+  {
+    "id": "SK-1094",
+    "packageId": "PKG-DUCT-L04",
+    "crewId": "CREW-02",
+    "discipline": "Piping",
+    "diameterInches": 4,
+    "material": "CPVC",
+    "nodes": [
+      {
+        "x": 208.59,
+        "y": 50.76,
+        "z": 139.34
+      },
+      {
+        "x": 173.64,
+        "y": 50.76,
+        "z": 139.34
+      }
+    ],
+    "status": "UnderReview",
+    "capturedAtUtc": "2026-07-31T08:09:39.375Z",
+    "publishedAtUtc": "2026-07-31T08:17:59.656Z",
+    "clientLengthFeet": 34.95,
+    "clientVersion": "field-1.4.1",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-31T08:17:59.656Z",
+        "actor": "CREW-02"
+      },
+      {
+        "from": "Published",
+        "to": "UnderReview",
+        "atUtc": "2026-07-31T22:49:15.311Z",
+        "actor": "shop-planner"
+      }
+    ]
+  },
+  {
+    "id": "SK-1095",
+    "packageId": "PKG-HHW-L02",
+    "crewId": "CREW-04",
+    "discipline": "Piping",
+    "diameterInches": 6,
+    "material": "Grooved Carbon Steel",
+    "nodes": [
+      {
+        "x": 231,
+        "y": 35.63,
+        "z": 136.26
+      },
+      {
+        "x": 197.36,
+        "y": 35.63,
+        "z": 136.26
+      },
+      {
+        "x": 197.36,
+        "y": 35.63,
+        "z": 116.36
+      },
+      {
+        "x": 161.69,
+        "y": 35.63,
+        "z": 116.36
+      },
+      {
+        "x": 161.69,
+        "y": 35.63,
+        "z": 130.78
+      },
+      {
+        "x": 161.69,
+        "y": 21.97,
+        "z": 130.78
+      },
+      {
+        "x": 186.08,
+        "y": 21.97,
+        "z": 130.78
+      }
+    ],
+    "status": "Published",
+    "capturedAtUtc": "2026-07-15T02:45:39.113Z",
+    "publishedAtUtc": "2026-07-15T03:51:11.308Z",
+    "clientLengthFeet": 128.02,
+    "clientVersion": "field-1.4.1",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-15T03:51:11.308Z",
+        "actor": "CREW-04"
+      }
+    ]
+  },
+  {
+    "id": "SK-1096",
+    "packageId": "PKG-ELEC-L03",
+    "crewId": "CREW-04",
+    "discipline": "Electrical",
+    "diameterInches": 0.75,
+    "material": "Rigid",
+    "nodes": [
+      {
+        "x": 106.09,
+        "y": 63.41,
+        "z": 38.39
+      },
+      {
+        "x": 106.09,
+        "y": 63.41,
+        "z": 50.18
+      },
+      {
+        "x": 91.61,
+        "y": 63.41,
+        "z": 50.18
+      },
+      {
+        "x": 91.61,
+        "y": 63.41,
+        "z": 68.99
+      },
+      {
+        "x": 129.33,
+        "y": 63.41,
+        "z": 68.99
+      }
+    ],
+    "status": "Approved",
+    "capturedAtUtc": "2026-07-12T07:44:01.875Z",
+    "publishedAtUtc": "2026-07-12T08:35:13.586Z",
+    "clientLengthFeet": 82.8,
+    "clientVersion": "field-1.4.2",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-12T08:35:13.586Z",
+        "actor": "CREW-04"
+      },
+      {
+        "from": "Published",
+        "to": "UnderReview",
+        "atUtc": "2026-07-13T06:57:50.585Z",
+        "actor": "shop-planner"
+      },
+      {
+        "from": "UnderReview",
+        "to": "Approved",
+        "atUtc": "2026-07-13T19:37:26.659Z",
+        "actor": "shop-planner"
+      }
+    ]
+  },
+  {
+    "id": "SK-1097",
+    "packageId": "PKG-HHW-L02",
+    "crewId": "CREW-06",
+    "discipline": "Piping",
+    "diameterInches": 1,
+    "material": "Grooved Carbon Steel",
+    "nodes": [
+      {
+        "x": 119.44,
+        "y": 10.02,
+        "z": 57.94
+      },
+      {
+        "x": 119.44,
+        "y": 10.02,
+        "z": 47.59
+      },
+      {
+        "x": 128.62,
+        "y": 10.02,
+        "z": 47.59
+      },
+      {
+        "x": 128.62,
+        "y": 10.02,
+        "z": 17.92
+      },
+      {
+        "x": 121.37,
+        "y": 10.02,
+        "z": 17.92
+      }
+    ],
+    "status": "Approved",
+    "capturedAtUtc": "2026-07-30T18:14:39.287Z",
+    "publishedAtUtc": "2026-07-30T18:25:25.613Z",
+    "clientLengthFeet": 56.45,
+    "clientVersion": "field-1.4.1",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-30T18:25:25.613Z",
+        "actor": "CREW-06"
+      },
+      {
+        "from": "Published",
+        "to": "UnderReview",
+        "atUtc": "2026-07-31T14:58:37.745Z",
+        "actor": "shop-planner"
+      },
+      {
+        "from": "UnderReview",
+        "to": "Approved",
+        "atUtc": "2026-07-31T16:15:27.933Z",
+        "actor": "shop-planner"
+      }
+    ]
+  },
+  {
+    "id": "SK-1098",
+    "packageId": "PKG-CHW-L02",
+    "crewId": "CREW-03",
+    "discipline": "Electrical",
+    "diameterInches": 1.25,
+    "material": "EMT",
+    "nodes": [
+      {
+        "x": 57.74,
+        "y": 64.24,
+        "z": 10.41
+      },
+      {
+        "x": 57.74,
+        "y": 64.24,
+        "z": -9.25
+      }
+    ],
+    "status": "UnderReview",
+    "capturedAtUtc": "2026-07-24T04:10:55.792Z",
+    "publishedAtUtc": "2026-07-24T04:56:41.632Z",
+    "clientLengthFeet": 19.66,
+    "clientVersion": "field-1.4.1",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-24T04:56:41.632Z",
+        "actor": "CREW-03"
+      },
+      {
+        "from": "Published",
+        "to": "UnderReview",
+        "atUtc": "2026-07-25T09:58:52.261Z",
+        "actor": "shop-planner"
+      }
+    ]
+  },
+  {
+    "id": "SK-1099",
+    "packageId": "PKG-HHW-L02",
+    "crewId": "CREW-03",
+    "discipline": "Piping",
+    "diameterInches": 6,
+    "material": "CPVC",
+    "nodes": [
+      {
+        "x": 218.79,
+        "y": 50.12,
+        "z": 30.34
+      },
+      {
+        "x": 255.58,
+        "y": 50.12,
+        "z": 30.34
+      },
+      {
+        "x": 255.58,
+        "y": 50.12,
+        "z": -4.43
+      },
+      {
+        "x": 218.17,
+        "y": 50.12,
+        "z": -4.43
+      },
+      {
+        "x": 218.17,
+        "y": 50.12,
+        "z": 10.53
+      }
+    ],
+    "status": "Approved",
+    "capturedAtUtc": "2026-07-23T06:45:32.035Z",
+    "publishedAtUtc": "2026-07-23T07:45:58.427Z",
+    "clientLengthFeet": 123.93,
+    "clientVersion": "field-1.4.2",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-23T07:45:58.427Z",
+        "actor": "CREW-03"
+      },
+      {
+        "from": "Published",
+        "to": "UnderReview",
+        "atUtc": "2026-07-24T07:42:12.461Z",
+        "actor": "shop-planner"
+      },
+      {
+        "from": "UnderReview",
+        "to": "Approved",
+        "atUtc": "2026-07-24T10:37:56.870Z",
+        "actor": "shop-planner"
+      }
+    ]
+  },
+  {
+    "id": "SK-1100",
+    "packageId": "PKG-CHW-L02",
+    "crewId": "CREW-04",
+    "discipline": "Piping",
+    "diameterInches": 4,
+    "material": "Copper Type L",
+    "nodes": [
+      {
+        "x": 99.56,
+        "y": 8.51,
+        "z": 95.42
+      },
+      {
+        "x": 99.56,
+        "y": 8.51,
+        "z": 72.4
+      }
+    ],
+    "status": "Published",
+    "capturedAtUtc": "2026-07-14T21:40:32.839Z",
+    "publishedAtUtc": "2026-07-14T22:57:06.364Z",
+    "clientLengthFeet": 23.02,
+    "clientVersion": "field-1.4.0",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-14T22:57:06.364Z",
+        "actor": "CREW-04"
+      }
+    ]
+  },
+  {
+    "id": "SK-1101",
+    "packageId": "PKG-DUCT-L06",
+    "crewId": "CREW-02",
+    "discipline": "Piping",
+    "diameterInches": 1,
+    "material": "Grooved Carbon Steel",
+    "nodes": [
+      {
+        "x": 211.56,
+        "y": 36.01,
+        "z": 173.24
+      },
+      {
+        "x": 248.79,
+        "y": 36.01,
+        "z": 173.24
+      },
+      {
+        "x": 248.79,
+        "y": 36.01,
+        "z": 157.6
+      },
+      {
+        "x": 255.38,
+        "y": 36.01,
+        "z": 157.6
+      },
+      {
+        "x": 255.38,
+        "y": 36.01,
+        "z": 144.49
+      }
+    ],
+    "status": "Published",
+    "capturedAtUtc": "2026-07-22T23:50:30.412Z",
+    "publishedAtUtc": "2026-07-23T00:54:43.593Z",
+    "clientLengthFeet": 72.57,
+    "clientVersion": "field-1.4.1",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-23T00:54:43.593Z",
+        "actor": "CREW-02"
+      }
+    ]
+  },
+  {
+    "id": "SK-1102",
+    "packageId": "PKG-CHW-L03",
+    "crewId": "CREW-06",
+    "discipline": "SheetMetal",
+    "diameterInches": 14,
+    "material": "Galvanized 24ga",
+    "nodes": [
+      {
+        "x": 72.88,
+        "y": 22.51,
+        "z": 140.75
+      },
+      {
+        "x": 40.03,
+        "y": 22.51,
+        "z": 140.75
+      }
+    ],
+    "status": "UnderReview",
+    "capturedAtUtc": "2026-07-29T16:44:30.580Z",
+    "publishedAtUtc": "2026-07-29T17:02:18.105Z",
+    "clientLengthFeet": 32.85,
+    "clientVersion": "field-1.4.0",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-29T17:02:18.105Z",
+        "actor": "CREW-06"
+      },
+      {
+        "from": "Published",
+        "to": "UnderReview",
+        "atUtc": "2026-07-30T15:21:37.980Z",
+        "actor": "shop-planner"
+      }
+    ]
+  },
+  {
+    "id": "SK-1103",
+    "packageId": "PKG-DUCT-L06",
+    "crewId": "CREW-02",
+    "discipline": "SheetMetal",
+    "diameterInches": 8,
+    "material": "Galvanized 24ga",
+    "nodes": [
+      {
+        "x": 11.69,
+        "y": 63.36,
+        "z": 85.03
+      },
+      {
+        "x": 31.36,
+        "y": 63.36,
+        "z": 85.03
+      },
+      {
+        "x": 31.36,
+        "y": 63.36,
+        "z": 108.93
+      },
+      {
+        "x": 69.85,
+        "y": 63.36,
+        "z": 108.93
+      },
+      {
+        "x": 69.85,
+        "y": 63.36,
+        "z": 66.67
+      },
+      {
+        "x": 69.85,
+        "y": 53.73,
+        "z": 66.67
+      }
+    ],
+    "status": "UnderReview",
+    "capturedAtUtc": "2026-07-17T06:28:46.251Z",
+    "publishedAtUtc": "2026-07-17T07:35:37.599Z",
+    "clientLengthFeet": 124.32,
+    "clientVersion": "field-1.4.0",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-17T07:35:37.599Z",
+        "actor": "CREW-02"
+      },
+      {
+        "from": "Published",
+        "to": "UnderReview",
+        "atUtc": "2026-07-17T20:45:04.010Z",
+        "actor": "shop-planner"
+      }
+    ]
+  },
+  {
+    "id": "SK-1104",
+    "packageId": "PKG-CHW-L03",
+    "crewId": "CREW-05",
+    "discipline": "SheetMetal",
+    "diameterInches": 12,
+    "material": "Galvanized 26ga",
+    "nodes": [
+      {
+        "x": 145.21,
+        "y": 23.09,
+        "z": 112.39
+      },
+      {
+        "x": 145.21,
+        "y": 23.09,
+        "z": 118.73
+      },
+      {
+        "x": 154.9,
+        "y": 23.09,
+        "z": 118.73
+      }
+    ],
+    "status": "UnderReview",
+    "capturedAtUtc": "2026-07-29T07:11:45.346Z",
+    "publishedAtUtc": "2026-07-29T08:24:53.887Z",
+    "clientLengthFeet": 16.03,
+    "clientVersion": "field-1.4.2",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-29T08:24:53.887Z",
+        "actor": "CREW-05"
+      },
+      {
+        "from": "Published",
+        "to": "UnderReview",
+        "atUtc": "2026-07-29T23:02:55.724Z",
+        "actor": "shop-planner"
+      }
+    ]
+  },
+  {
+    "id": "SK-1105",
+    "packageId": "PKG-MED-GAS-L01",
+    "crewId": "CREW-04",
+    "discipline": "Electrical",
+    "diameterInches": 2,
+    "material": "PVC Sch40",
+    "nodes": [
+      {
+        "x": 65.12,
+        "y": 9.73,
+        "z": 159.68
+      },
+      {
+        "x": 65.12,
+        "y": 9.73,
+        "z": 151.33
+      },
+      {
+        "x": 90.82,
+        "y": 9.73,
+        "z": 151.33
+      },
+      {
+        "x": 90.82,
+        "y": 9.73,
+        "z": 195.06
+      },
+      {
+        "x": 59.71,
+        "y": 9.73,
+        "z": 195.06
+      }
+    ],
+    "status": "Approved",
+    "capturedAtUtc": "2026-07-12T12:08:44.294Z",
+    "publishedAtUtc": "2026-07-12T12:52:33.506Z",
+    "clientLengthFeet": 108.89,
+    "clientVersion": "field-1.4.1",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-12T12:52:33.506Z",
+        "actor": "CREW-04"
+      },
+      {
+        "from": "Published",
+        "to": "UnderReview",
+        "atUtc": "2026-07-13T15:45:30.232Z",
+        "actor": "shop-planner"
+      },
+      {
+        "from": "UnderReview",
+        "to": "Approved",
+        "atUtc": "2026-07-14T05:55:21.906Z",
+        "actor": "shop-planner"
+      }
+    ]
+  },
+  {
+    "id": "SK-1106",
+    "packageId": "PKG-ELEC-L03",
+    "crewId": "CREW-05",
+    "discipline": "Electrical",
+    "diameterInches": 0.75,
+    "material": "Rigid",
+    "nodes": [
+      {
+        "x": 125.09,
+        "y": 63.35,
+        "z": 62.43
+      },
+      {
+        "x": 95.72,
+        "y": 63.35,
+        "z": 62.43
+      },
+      {
+        "x": 95.72,
+        "y": 63.35,
+        "z": 98.79
+      },
+      {
+        "x": 107.7,
+        "y": 63.35,
+        "z": 98.79
+      },
+      {
+        "x": 107.7,
+        "y": 63.35,
+        "z": 134.34
+      }
+    ],
+    "status": "Published",
+    "capturedAtUtc": "2026-07-25T10:39:35.459Z",
+    "publishedAtUtc": "2026-07-25T11:34:41.429Z",
+    "clientLengthFeet": 113.26,
+    "clientVersion": "field-1.4.2",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-25T11:34:41.429Z",
+        "actor": "CREW-05"
+      }
+    ]
+  },
+  {
+    "id": "SK-1107",
+    "packageId": "PKG-CHW-L03",
+    "crewId": "CREW-03",
+    "discipline": "Piping",
+    "diameterInches": 2,
+    "material": "CPVC",
+    "nodes": [
+      {
+        "x": 143.24,
+        "y": 9.09,
+        "z": 75.73
+      },
+      {
+        "x": 172.41,
+        "y": 9.09,
+        "z": 75.73
+      },
+      {
+        "x": 172.41,
+        "y": 9.09,
+        "z": 85.13
+      }
+    ],
+    "status": "Published",
+    "capturedAtUtc": "2026-07-27T15:04:44.670Z",
+    "publishedAtUtc": "2026-07-27T15:59:10.405Z",
+    "clientLengthFeet": 38.57,
+    "clientVersion": "field-1.4.2",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-27T15:59:10.405Z",
+        "actor": "CREW-03"
+      }
+    ]
+  },
+  {
+    "id": "SK-1108",
+    "packageId": "PKG-CHW-L03",
+    "crewId": "CREW-01",
+    "discipline": "Electrical",
+    "diameterInches": 0.75,
+    "material": "PVC Sch40",
+    "nodes": [
+      {
+        "x": 45.65,
+        "y": 23.44,
+        "z": 45.13
+      },
+      {
+        "x": 45.65,
+        "y": 23.44,
+        "z": 11.58
+      },
+      {
+        "x": 4.52,
+        "y": 23.44,
+        "z": 11.58
+      },
+      {
+        "x": 4.52,
+        "y": 33.45,
+        "z": 11.58
+      }
+    ],
+    "status": "Approved",
+    "capturedAtUtc": "2026-07-26T20:34:45.502Z",
+    "publishedAtUtc": "2026-07-26T20:52:17.200Z",
+    "clientLengthFeet": 74.68,
+    "clientVersion": "field-1.4.0",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-26T20:52:17.200Z",
+        "actor": "CREW-01"
+      },
+      {
+        "from": "Published",
+        "to": "UnderReview",
+        "atUtc": "2026-07-27T15:15:03.833Z",
+        "actor": "shop-planner"
+      },
+      {
+        "from": "UnderReview",
+        "to": "Approved",
+        "atUtc": "2026-07-28T03:21:20.444Z",
+        "actor": "shop-planner"
+      }
+    ]
+  },
+  {
+    "id": "SK-1109",
+    "packageId": "PKG-CHW-L02",
+    "crewId": "CREW-04",
+    "discipline": "SheetMetal",
+    "diameterInches": 8,
+    "material": "Galvanized 26ga",
+    "nodes": [
+      {
+        "x": 132.37,
+        "y": 8.82,
+        "z": 106.47
+      },
+      {
+        "x": 141.69,
+        "y": 8.82,
+        "z": 106.47
+      }
+    ],
+    "status": "UnderReview",
+    "capturedAtUtc": "2026-07-22T10:27:32.808Z",
+    "publishedAtUtc": "2026-07-22T11:48:57.748Z",
+    "clientLengthFeet": 9.32,
+    "clientVersion": "field-1.4.0",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-22T11:48:57.748Z",
+        "actor": "CREW-04"
+      },
+      {
+        "from": "Published",
+        "to": "UnderReview",
+        "atUtc": "2026-07-23T15:13:38.281Z",
+        "actor": "shop-planner"
+      }
+    ]
+  },
+  {
+    "id": "SK-1110",
+    "packageId": "PKG-CHW-L03",
+    "crewId": "CREW-01",
+    "discipline": "Electrical",
+    "diameterInches": 1.25,
+    "material": "Rigid",
+    "nodes": [
+      {
+        "x": 192.89,
+        "y": 49.68,
+        "z": 115.46
+      },
+      {
+        "x": 192.89,
+        "y": 49.68,
+        "z": 103.56
+      },
+      {
+        "x": 158.2,
+        "y": 49.68,
+        "z": 103.56
+      },
+      {
+        "x": 158.2,
+        "y": 49.68,
+        "z": 91.26
+      },
+      {
+        "x": 137.43,
+        "y": 49.68,
+        "z": 91.26
+      }
+    ],
+    "status": "Published",
+    "capturedAtUtc": "2026-07-25T14:58:30.159Z",
+    "publishedAtUtc": "2026-07-25T15:53:39.947Z",
+    "clientLengthFeet": 79.66,
+    "clientVersion": "field-1.4.1",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-25T15:53:39.947Z",
+        "actor": "CREW-01"
+      }
+    ]
+  },
+  {
+    "id": "SK-1111",
+    "packageId": "PKG-CHW-L03",
+    "crewId": "CREW-02",
+    "discipline": "Electrical",
+    "diameterInches": 1.25,
+    "material": "EMT",
+    "nodes": [
+      {
+        "x": 131.11,
+        "y": 10.7,
+        "z": 64.93
+      },
+      {
+        "x": 138.08,
+        "y": 10.7,
+        "z": 64.93
+      }
+    ],
+    "status": "Approved",
+    "capturedAtUtc": "2026-07-18T15:28:00.012Z",
+    "publishedAtUtc": "2026-07-18T15:36:40.469Z",
+    "clientLengthFeet": 6.97,
+    "clientVersion": "field-1.4.2",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-18T15:36:40.469Z",
+        "actor": "CREW-02"
+      },
+      {
+        "from": "Published",
+        "to": "UnderReview",
+        "atUtc": "2026-07-19T20:28:51.280Z",
+        "actor": "shop-planner"
+      },
+      {
+        "from": "UnderReview",
+        "to": "Approved",
+        "atUtc": "2026-07-20T12:46:42.911Z",
+        "actor": "shop-planner"
+      }
+    ]
+  },
+  {
+    "id": "SK-1112",
+    "packageId": "PKG-DUCT-L04",
+    "crewId": "CREW-05",
+    "discipline": "Electrical",
+    "diameterInches": 1.25,
+    "material": "PVC Sch40",
+    "nodes": [
+      {
+        "x": 22.78,
+        "y": 35.52,
+        "z": 72.63
+      },
+      {
+        "x": 22.78,
+        "y": 35.52,
+        "z": 89.53
+      },
+      {
+        "x": 56.92,
+        "y": 35.52,
+        "z": 89.53
+      },
+      {
+        "x": 56.92,
+        "y": 35.52,
+        "z": 77.42
+      }
+    ],
+    "status": "Approved",
+    "capturedAtUtc": "2026-07-13T09:05:18.898Z",
+    "publishedAtUtc": "2026-07-13T09:39:58.397Z",
+    "clientLengthFeet": 63.15,
+    "clientVersion": "field-1.4.0",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-13T09:39:58.397Z",
+        "actor": "CREW-05"
+      },
+      {
+        "from": "Published",
+        "to": "UnderReview",
+        "atUtc": "2026-07-14T02:24:24.175Z",
+        "actor": "shop-planner"
+      },
+      {
+        "from": "UnderReview",
+        "to": "Approved",
+        "atUtc": "2026-07-14T09:28:16.008Z",
+        "actor": "shop-planner"
+      }
+    ]
+  },
+  {
+    "id": "SK-1113",
+    "packageId": "PKG-DUCT-L04",
+    "crewId": "CREW-02",
+    "discipline": "Electrical",
+    "diameterInches": 1,
+    "material": "Rigid",
+    "nodes": [
+      {
+        "x": 115.36,
+        "y": 62.9,
+        "z": 24.44
+      },
+      {
+        "x": 115.36,
+        "y": 62.9,
+        "z": -16.34
+      },
+      {
+        "x": 73.85,
+        "y": 62.9,
+        "z": -16.34
+      },
+      {
+        "x": 73.85,
+        "y": 62.9,
+        "z": -41.85
+      },
+      {
+        "x": 58.2,
+        "y": 62.9,
+        "z": -41.85
+      }
+    ],
+    "status": "Rejected",
+    "capturedAtUtc": "2026-07-23T12:01:28.088Z",
+    "publishedAtUtc": "2026-07-23T13:25:29.714Z",
+    "clientLengthFeet": 123.45,
+    "clientVersion": "field-1.4.2",
+    "reviewNotes": "Route conflicts with structural steel at grid C-4. Re-sketch below the beam.",
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-23T13:25:29.714Z",
+        "actor": "CREW-02"
+      },
+      {
+        "from": "Published",
+        "to": "UnderReview",
+        "atUtc": "2026-07-24T12:19:36.871Z",
+        "actor": "shop-planner"
+      },
+      {
+        "from": "UnderReview",
+        "to": "Rejected",
+        "atUtc": "2026-07-24T19:43:44.407Z",
+        "actor": "shop-planner"
+      }
+    ]
+  },
+  {
+    "id": "SK-1114",
+    "packageId": "PKG-HHW-L02",
+    "crewId": "CREW-05",
+    "discipline": "Electrical",
+    "diameterInches": 2,
+    "material": "PVC Sch40",
+    "nodes": [
+      {
+        "x": 223.74,
+        "y": 10.72,
+        "z": 39.78
+      },
+      {
+        "x": 223.74,
+        "y": 10.72,
+        "z": 53.08
+      },
+      {
+        "x": 258.55,
+        "y": 10.72,
+        "z": 53.08
+      },
+      {
+        "x": 258.55,
+        "y": 10.72,
+        "z": 44.17
+      }
+    ],
+    "status": "Published",
+    "capturedAtUtc": "2026-07-25T23:08:42.048Z",
+    "publishedAtUtc": "2026-07-26T00:26:53.569Z",
+    "clientLengthFeet": 57.02,
+    "clientVersion": "field-1.4.0",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-26T00:26:53.569Z",
+        "actor": "CREW-05"
+      }
+    ]
+  },
+  {
+    "id": "SK-1115",
+    "packageId": "PKG-DUCT-L04",
+    "crewId": "CREW-02",
+    "discipline": "SheetMetal",
+    "diameterInches": 8,
+    "material": "Galvanized 24ga",
+    "nodes": [
+      {
+        "x": 101.1,
+        "y": 51.34,
+        "z": 99.03
+      },
+      {
+        "x": 61.46,
+        "y": 51.34,
+        "z": 99.03
+      },
+      {
+        "x": 61.46,
+        "y": 51.34,
+        "z": 56.15
+      },
+      {
+        "x": 45.06,
+        "y": 51.34,
+        "z": 56.15
+      },
+      {
+        "x": 45.06,
+        "y": 41.39,
+        "z": 56.15
+      }
+    ],
+    "status": "Approved",
+    "capturedAtUtc": "2026-07-22T20:25:35.006Z",
+    "publishedAtUtc": "2026-07-22T21:41:15.827Z",
+    "clientLengthFeet": 98.92,
+    "clientVersion": "field-1.4.2",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-22T21:41:15.827Z",
+        "actor": "CREW-02"
+      },
+      {
+        "from": "Published",
+        "to": "UnderReview",
+        "atUtc": "2026-07-23T15:24:17.841Z",
+        "actor": "shop-planner"
+      },
+      {
+        "from": "UnderReview",
+        "to": "Approved",
+        "atUtc": "2026-07-24T11:05:55.179Z",
+        "actor": "shop-planner"
+      }
+    ]
+  },
+  {
+    "id": "SK-1116",
+    "packageId": "PKG-DUCT-L06",
+    "crewId": "CREW-02",
+    "discipline": "SheetMetal",
+    "diameterInches": 14,
+    "material": "Galvanized 24ga",
+    "nodes": [
+      {
+        "x": 140.67,
+        "y": 8.09,
+        "z": 160.78
+      },
+      {
+        "x": 170.85,
+        "y": 8.09,
+        "z": 160.78
+      }
+    ],
+    "status": "UnderReview",
+    "capturedAtUtc": "2026-07-16T11:27:39.033Z",
+    "publishedAtUtc": "2026-07-16T11:45:45.890Z",
+    "clientLengthFeet": 30.18,
+    "clientVersion": "field-1.4.1",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-16T11:45:45.890Z",
+        "actor": "CREW-02"
+      },
+      {
+        "from": "Published",
+        "to": "UnderReview",
+        "atUtc": "2026-07-16T14:07:36.644Z",
+        "actor": "shop-planner"
+      }
+    ]
+  },
+  {
+    "id": "SK-1117",
+    "packageId": "PKG-MED-GAS-L01",
+    "crewId": "CREW-05",
+    "discipline": "SheetMetal",
+    "diameterInches": 10,
+    "material": "Galvanized 24ga",
+    "nodes": [
+      {
+        "x": 67.87,
+        "y": 50.47,
+        "z": 41.06
+      },
+      {
+        "x": 109.29,
+        "y": 50.47,
+        "z": 41.06
+      },
+      {
+        "x": 109.29,
+        "y": 50.47,
+        "z": 74.53
+      }
+    ],
+    "status": "Published",
+    "capturedAtUtc": "2026-07-15T17:00:41.770Z",
+    "publishedAtUtc": "2026-07-15T18:15:10.928Z",
+    "clientLengthFeet": 74.89,
+    "clientVersion": "field-1.4.2",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-15T18:15:10.928Z",
+        "actor": "CREW-05"
+      }
+    ]
+  },
+  {
+    "id": "SK-1118",
+    "packageId": "PKG-CHW-L02",
+    "crewId": "CREW-04",
+    "discipline": "SheetMetal",
+    "diameterInches": 12,
+    "material": "Galvanized 26ga",
+    "nodes": [
+      {
+        "x": 137.05,
+        "y": 63.88,
+        "z": 79.22
+      },
+      {
+        "x": 137.05,
+        "y": 63.88,
+        "z": 40.91
+      }
+    ],
+    "status": "Published",
+    "capturedAtUtc": "2026-07-12T08:38:42.994Z",
+    "publishedAtUtc": "2026-07-12T08:55:51.846Z",
+    "clientLengthFeet": 38.31,
+    "clientVersion": "field-1.4.0",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-12T08:55:51.846Z",
+        "actor": "CREW-04"
+      }
+    ]
+  },
+  {
+    "id": "SK-1119",
+    "packageId": "PKG-MED-GAS-L01",
+    "crewId": "CREW-03",
+    "discipline": "Piping",
+    "diameterInches": 4,
+    "material": "Carbon Steel",
+    "nodes": [
+      {
+        "x": 107.61,
+        "y": 64.47,
+        "z": 105.89
+      },
+      {
+        "x": 139.32,
+        "y": 64.47,
+        "z": 105.89
+      },
+      {
+        "x": 139.32,
+        "y": 64.47,
+        "z": 132.72
+      },
+      {
+        "x": 147.62,
+        "y": 64.47,
+        "z": 132.72
+      },
+      {
+        "x": 147.62,
+        "y": 64.47,
+        "z": 112.41
+      }
+    ],
+    "status": "Approved",
+    "capturedAtUtc": "2026-07-29T23:29:22.985Z",
+    "publishedAtUtc": "2026-07-30T00:12:25.241Z",
+    "clientLengthFeet": 87.15,
+    "clientVersion": "field-1.4.2",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-30T00:12:25.241Z",
+        "actor": "CREW-03"
+      },
+      {
+        "from": "Published",
+        "to": "UnderReview",
+        "atUtc": "2026-07-30T22:16:47.510Z",
+        "actor": "shop-planner"
+      },
+      {
+        "from": "UnderReview",
+        "to": "Approved",
+        "atUtc": "2026-07-31T14:50:26.767Z",
+        "actor": "shop-planner"
+      }
+    ]
+  },
+  {
+    "id": "SK-1120",
+    "packageId": "PKG-ELEC-L03",
+    "crewId": "CREW-02",
+    "discipline": "Electrical",
+    "diameterInches": 1,
+    "material": "PVC Sch40",
+    "nodes": [
+      {
+        "x": 51.9,
+        "y": 35.8,
+        "z": 11.17
+      },
+      {
+        "x": 51.9,
+        "y": 35.8,
+        "z": -10.56
+      },
+      {
+        "x": 22.66,
+        "y": 35.8,
+        "z": -10.56
+      }
+    ],
+    "status": "Approved",
+    "capturedAtUtc": "2026-07-20T03:34:22.663Z",
+    "publishedAtUtc": "2026-07-20T03:46:08.601Z",
+    "clientLengthFeet": 50.97,
+    "clientVersion": "field-1.4.2",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-20T03:46:08.601Z",
+        "actor": "CREW-02"
+      },
+      {
+        "from": "Published",
+        "to": "UnderReview",
+        "atUtc": "2026-07-20T04:39:54.796Z",
+        "actor": "shop-planner"
+      },
+      {
+        "from": "UnderReview",
+        "to": "Approved",
+        "atUtc": "2026-07-20T16:13:00.602Z",
+        "actor": "shop-planner"
+      }
+    ]
+  },
+  {
+    "id": "SK-1121",
+    "packageId": "PKG-ELEC-L03",
+    "crewId": "CREW-05",
+    "discipline": "SheetMetal",
+    "diameterInches": 8,
+    "material": "Galvanized 26ga",
+    "nodes": [
+      {
+        "x": 87.57,
+        "y": 22.18,
+        "z": 163.89
+      },
+      {
+        "x": 75.3,
+        "y": 22.18,
+        "z": 163.89
+      },
+      {
+        "x": 75.3,
+        "y": 22.18,
+        "z": 207.84
+      }
+    ],
+    "status": "UnderReview",
+    "capturedAtUtc": "2026-07-28T01:00:54.467Z",
+    "publishedAtUtc": "2026-07-28T02:26:45.038Z",
+    "clientLengthFeet": 56.22,
+    "clientVersion": "field-1.4.1",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-28T02:26:45.038Z",
+        "actor": "CREW-05"
+      },
+      {
+        "from": "Published",
+        "to": "UnderReview",
+        "atUtc": "2026-07-29T07:28:38.641Z",
+        "actor": "shop-planner"
+      }
+    ]
+  },
+  {
+    "id": "SK-1122",
+    "packageId": "PKG-HHW-L02",
+    "crewId": "CREW-03",
+    "discipline": "SheetMetal",
+    "diameterInches": 14,
+    "material": "Galvanized 26ga",
+    "nodes": [
+      {
+        "x": 180.03,
+        "y": 64.92,
+        "z": 98.18
+      },
+      {
+        "x": 136.41,
+        "y": 64.92,
+        "z": 98.18
+      },
+      {
+        "x": 136.41,
+        "y": 53.15,
+        "z": 98.18
+      },
+      {
+        "x": 136.41,
+        "y": 53.15,
+        "z": 124.27
+      }
+    ],
+    "status": "Approved",
+    "capturedAtUtc": "2026-07-17T17:36:58.228Z",
+    "publishedAtUtc": "2026-07-17T18:01:01.217Z",
+    "clientLengthFeet": 69.71,
+    "clientVersion": "field-1.4.2",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-17T18:01:01.217Z",
+        "actor": "CREW-03"
+      },
+      {
+        "from": "Published",
+        "to": "UnderReview",
+        "atUtc": "2026-07-18T15:13:10.488Z",
+        "actor": "shop-planner"
+      },
+      {
+        "from": "UnderReview",
+        "to": "Approved",
+        "atUtc": "2026-07-18T17:49:25.982Z",
+        "actor": "shop-planner"
+      }
+    ]
+  },
+  {
+    "id": "SK-1123",
+    "packageId": "PKG-DUCT-L04",
+    "crewId": "CREW-03",
+    "discipline": "Piping",
+    "diameterInches": 1.5,
+    "material": "Grooved Carbon Steel",
+    "nodes": [
+      {
+        "x": 88.16,
+        "y": 24.08,
+        "z": 132.1
+      },
+      {
+        "x": 88.16,
+        "y": 24.08,
+        "z": 149.75
+      },
+      {
+        "x": 75.25,
+        "y": 24.08,
+        "z": 149.75
+      },
+      {
+        "x": 75.25,
+        "y": 24.08,
+        "z": 134.49
+      },
+      {
+        "x": 112.86,
+        "y": 24.08,
+        "z": 134.49
+      },
+      {
+        "x": 112.86,
+        "y": 34.63,
+        "z": 134.49
+      },
+      {
+        "x": 112.86,
+        "y": 34.63,
+        "z": 106.68
+      }
+    ],
+    "status": "Published",
+    "capturedAtUtc": "2026-07-22T02:39:38.897Z",
+    "publishedAtUtc": "2026-07-22T03:41:39.398Z",
+    "clientLengthFeet": 111.24,
+    "clientVersion": "field-1.4.0",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-22T03:41:39.398Z",
+        "actor": "CREW-03"
+      }
+    ]
+  },
+  {
+    "id": "SK-1124",
+    "packageId": "PKG-ELEC-L03",
+    "crewId": "CREW-05",
+    "discipline": "SheetMetal",
+    "diameterInches": 24,
+    "material": "Stainless 304",
+    "nodes": [
+      {
+        "x": 156.57,
+        "y": 37.95,
+        "z": 19.18
+      },
+      {
+        "x": 156.57,
+        "y": 37.95,
+        "z": 56.88
+      },
+      {
+        "x": 136.74,
+        "y": 37.95,
+        "z": 56.88
+      },
+      {
+        "x": 136.74,
+        "y": 37.95,
+        "z": 39.14
+      }
+    ],
+    "status": "Published",
+    "capturedAtUtc": "2026-07-31T01:37:10.797Z",
+    "publishedAtUtc": "2026-07-31T03:04:23.180Z",
+    "clientLengthFeet": 75.27,
+    "clientVersion": "field-1.4.0",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-31T03:04:23.180Z",
+        "actor": "CREW-05"
+      }
+    ]
+  },
+  {
+    "id": "SK-1125",
+    "packageId": "PKG-MED-GAS-L01",
+    "crewId": "CREW-04",
+    "discipline": "SheetMetal",
+    "diameterInches": 14,
+    "material": "Galvanized 26ga",
+    "nodes": [
+      {
+        "x": 28.77,
+        "y": 22.9,
+        "z": 115.71
+      },
+      {
+        "x": 70.28,
+        "y": 22.9,
+        "z": 115.71
+      },
+      {
+        "x": 70.28,
+        "y": 22.9,
+        "z": 105.53
+      },
+      {
+        "x": 50.47,
+        "y": 22.9,
+        "z": 105.53
+      }
+    ],
+    "status": "Published",
+    "capturedAtUtc": "2026-07-15T06:32:31.589Z",
+    "publishedAtUtc": "2026-07-15T06:57:13.191Z",
+    "clientLengthFeet": 71.5,
+    "clientVersion": "field-1.4.0",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-15T06:57:13.191Z",
+        "actor": "CREW-04"
+      }
+    ]
+  },
+  {
+    "id": "SK-1126",
+    "packageId": "PKG-ELEC-L03",
+    "crewId": "CREW-04",
+    "discipline": "Piping",
+    "diameterInches": 8,
+    "material": "Carbon Steel",
+    "nodes": [
+      {
+        "x": 155.57,
+        "y": 51.18,
+        "z": 145.95
+      },
+      {
+        "x": 155.57,
+        "y": 51.18,
+        "z": 185.53
+      },
+      {
+        "x": 180.88,
+        "y": 51.18,
+        "z": 185.53
+      }
+    ],
+    "status": "Approved",
+    "capturedAtUtc": "2026-07-28T05:02:49.464Z",
+    "publishedAtUtc": "2026-07-28T06:02:17.437Z",
+    "clientLengthFeet": 64.89,
+    "clientVersion": "field-1.4.2",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-28T06:02:17.437Z",
+        "actor": "CREW-04"
+      },
+      {
+        "from": "Published",
+        "to": "UnderReview",
+        "atUtc": "2026-07-28T18:19:48.491Z",
+        "actor": "shop-planner"
+      },
+      {
+        "from": "UnderReview",
+        "to": "Approved",
+        "atUtc": "2026-07-28T23:46:14.962Z",
+        "actor": "shop-planner"
+      }
+    ]
+  },
+  {
+    "id": "SK-1127",
+    "packageId": "PKG-HHW-L02",
+    "crewId": "CREW-02",
+    "discipline": "SheetMetal",
+    "diameterInches": 12,
+    "material": "Galvanized 24ga",
+    "nodes": [
+      {
+        "x": 102.87,
+        "y": 64.09,
+        "z": 80.74
+      },
+      {
+        "x": 102.87,
+        "y": 64.09,
+        "z": 103.88
+      },
+      {
+        "x": 114.56,
+        "y": 64.09,
+        "z": 103.88
+      },
+      {
+        "x": 114.56,
+        "y": 64.09,
+        "z": 145.86
+      }
+    ],
+    "status": "Approved",
+    "capturedAtUtc": "2026-08-01T13:36:39.024Z",
+    "publishedAtUtc": "2026-08-01T14:08:35.787Z",
+    "clientLengthFeet": 76.81,
+    "clientVersion": "field-1.4.1",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-08-01T14:08:35.787Z",
+        "actor": "CREW-02"
+      },
+      {
+        "from": "Published",
+        "to": "UnderReview",
+        "atUtc": "2026-08-02T05:24:52.135Z",
+        "actor": "shop-planner"
+      },
+      {
+        "from": "UnderReview",
+        "to": "Approved",
+        "atUtc": "2026-08-02T11:03:59.287Z",
+        "actor": "shop-planner"
+      }
+    ]
+  },
+  {
+    "id": "SK-1128",
+    "packageId": "PKG-MED-GAS-L01",
+    "crewId": "CREW-01",
+    "discipline": "Electrical",
+    "diameterInches": 1,
+    "material": "Rigid",
+    "nodes": [
+      {
+        "x": 103.12,
+        "y": 23.25,
+        "z": 83.23
+      },
+      {
+        "x": 103.12,
+        "y": 23.25,
+        "z": 90.64
+      },
+      {
+        "x": 73.1,
+        "y": 23.25,
+        "z": 90.64
+      }
+    ],
+    "status": "UnderReview",
+    "capturedAtUtc": "2026-07-28T10:51:39.617Z",
+    "publishedAtUtc": "2026-07-28T11:18:23.822Z",
+    "clientLengthFeet": 37.43,
+    "clientVersion": "field-1.4.2",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-28T11:18:23.822Z",
+        "actor": "CREW-01"
+      },
+      {
+        "from": "Published",
+        "to": "UnderReview",
+        "atUtc": "2026-07-29T11:25:12.106Z",
+        "actor": "shop-planner"
+      }
+    ]
+  },
+  {
+    "id": "SK-1129",
+    "packageId": "PKG-ELEC-L03",
+    "crewId": "CREW-04",
+    "discipline": "Electrical",
+    "diameterInches": 1,
+    "material": "PVC Sch40",
+    "nodes": [
+      {
+        "x": 58.29,
+        "y": 21.92,
+        "z": 61.36
+      },
+      {
+        "x": 58.29,
+        "y": 21.92,
+        "z": 79.76
+      },
+      {
+        "x": 39.65,
+        "y": 21.92,
+        "z": 79.76
+      },
+      {
+        "x": 39.65,
+        "y": 21.92,
+        "z": 110.5
+      },
+      {
+        "x": 27.92,
+        "y": 21.92,
+        "z": 110.5
+      }
+    ],
+    "status": "Approved",
+    "capturedAtUtc": "2026-07-13T10:20:09.758Z",
+    "publishedAtUtc": "2026-07-13T11:29:33.939Z",
+    "clientLengthFeet": 79.51,
+    "clientVersion": "field-1.4.2",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-13T11:29:33.939Z",
+        "actor": "CREW-04"
+      },
+      {
+        "from": "Published",
+        "to": "UnderReview",
+        "atUtc": "2026-07-14T16:21:04.801Z",
+        "actor": "shop-planner"
+      },
+      {
+        "from": "UnderReview",
+        "to": "Approved",
+        "atUtc": "2026-07-14T17:53:17.380Z",
+        "actor": "shop-planner"
+      }
+    ]
+  },
+  {
+    "id": "SK-1130",
+    "packageId": "PKG-CHW-L02",
+    "crewId": "CREW-02",
+    "discipline": "Electrical",
+    "diameterInches": 1,
+    "material": "EMT",
+    "nodes": [
+      {
+        "x": 70.16,
+        "y": 9.77,
+        "z": 152.73
+      },
+      {
+        "x": 96.59,
+        "y": 9.77,
+        "z": 152.73
+      },
+      {
+        "x": 96.59,
+        "y": 9.77,
+        "z": 138.5
+      }
+    ],
+    "status": "Approved",
+    "capturedAtUtc": "2026-07-15T09:26:28.610Z",
+    "publishedAtUtc": "2026-07-15T10:51:31.800Z",
+    "clientLengthFeet": 40.66,
+    "clientVersion": "field-1.4.1",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-15T10:51:31.800Z",
+        "actor": "CREW-02"
+      },
+      {
+        "from": "Published",
+        "to": "UnderReview",
+        "atUtc": "2026-07-15T11:53:49.604Z",
+        "actor": "shop-planner"
+      },
+      {
+        "from": "UnderReview",
+        "to": "Approved",
+        "atUtc": "2026-07-15T18:01:22.476Z",
+        "actor": "shop-planner"
+      }
+    ]
+  },
+  {
+    "id": "SK-1131",
+    "packageId": "PKG-DUCT-L06",
+    "crewId": "CREW-03",
+    "discipline": "Piping",
+    "diameterInches": 3,
+    "material": "CPVC",
+    "nodes": [
+      {
+        "x": 166.24,
+        "y": 37.16,
+        "z": 121.55
+      },
+      {
+        "x": 166.24,
+        "y": 37.16,
+        "z": 98.41
+      },
+      {
+        "x": 189.92,
+        "y": 37.16,
+        "z": 98.41
+      }
+    ],
+    "status": "Published",
+    "capturedAtUtc": "2026-07-24T17:34:43.880Z",
+    "publishedAtUtc": "2026-07-24T18:43:40.929Z",
+    "clientLengthFeet": 46.82,
+    "clientVersion": "field-1.4.2",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-24T18:43:40.929Z",
+        "actor": "CREW-03"
+      }
+    ]
+  },
+  {
+    "id": "SK-1132",
+    "packageId": "PKG-CHW-L03",
+    "crewId": "CREW-01",
+    "discipline": "SheetMetal",
+    "diameterInches": 10,
+    "material": "Galvanized 26ga",
+    "nodes": [
+      {
+        "x": 67.53,
+        "y": 8.3,
+        "z": 60.07
+      },
+      {
+        "x": 110.18,
+        "y": 8.3,
+        "z": 60.07
+      },
+      {
+        "x": 110.18,
+        "y": 8.3,
+        "z": 90.4
+      }
+    ],
+    "status": "Approved",
+    "capturedAtUtc": "2026-07-16T15:51:08.681Z",
+    "publishedAtUtc": "2026-07-16T17:00:43.918Z",
+    "clientLengthFeet": 72.98,
+    "clientVersion": "field-1.4.2",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-16T17:00:43.918Z",
+        "actor": "CREW-01"
+      },
+      {
+        "from": "Published",
+        "to": "UnderReview",
+        "atUtc": "2026-07-17T02:54:41.299Z",
+        "actor": "shop-planner"
+      },
+      {
+        "from": "UnderReview",
+        "to": "Approved",
+        "atUtc": "2026-07-17T20:25:00.240Z",
+        "actor": "shop-planner"
+      }
+    ]
+  },
+  {
+    "id": "SK-1133",
+    "packageId": "PKG-CHW-L05",
+    "crewId": "CREW-04",
+    "discipline": "SheetMetal",
+    "diameterInches": 14,
+    "material": "Galvanized 24ga",
+    "nodes": [
+      {
+        "x": 231.27,
+        "y": 37.85,
+        "z": 171.27
+      },
+      {
+        "x": 261.27,
+        "y": 37.85,
+        "z": 171.27
+      }
+    ],
+    "status": "Rejected",
+    "capturedAtUtc": "2026-07-28T08:41:44.254Z",
+    "publishedAtUtc": "2026-07-28T09:34:09.375Z",
+    "clientLengthFeet": 30,
+    "clientVersion": "field-1.4.0",
+    "reviewNotes": "Missing takeoff at the branch. Please add the tee node.",
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-28T09:34:09.375Z",
+        "actor": "CREW-04"
+      },
+      {
+        "from": "Published",
+        "to": "UnderReview",
+        "atUtc": "2026-07-29T08:50:57.113Z",
+        "actor": "shop-planner"
+      },
+      {
+        "from": "UnderReview",
+        "to": "Rejected",
+        "atUtc": "2026-07-29T14:54:55.470Z",
+        "actor": "shop-planner"
+      }
+    ]
+  },
+  {
+    "id": "SK-1134",
+    "packageId": "PKG-MED-GAS-L01",
+    "crewId": "CREW-05",
+    "discipline": "Electrical",
+    "diameterInches": 1,
+    "material": "EMT",
+    "nodes": [
+      {
+        "x": 181.34,
+        "y": 62.89,
+        "z": 64.33
+      },
+      {
+        "x": 181.34,
+        "y": 62.89,
+        "z": 41.29
+      }
+    ],
+    "status": "UnderReview",
+    "capturedAtUtc": "2026-07-12T03:37:12.357Z",
+    "publishedAtUtc": "2026-07-12T04:57:41.167Z",
+    "clientLengthFeet": 23.04,
+    "clientVersion": "field-1.4.1",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-12T04:57:41.167Z",
+        "actor": "CREW-05"
+      },
+      {
+        "from": "Published",
+        "to": "UnderReview",
+        "atUtc": "2026-07-12T12:48:28.067Z",
+        "actor": "shop-planner"
+      }
+    ]
+  },
+  {
+    "id": "SK-1135",
+    "packageId": "PKG-ELEC-L03",
+    "crewId": "CREW-06",
+    "discipline": "Electrical",
+    "diameterInches": 2,
+    "material": "PVC Sch40",
+    "nodes": [
+      {
+        "x": 20.54,
+        "y": 35.73,
+        "z": 159.96
+      },
+      {
+        "x": 20.54,
+        "y": 35.73,
+        "z": 193.27
+      }
+    ],
+    "status": "UnderReview",
+    "capturedAtUtc": "2026-07-17T01:01:23.777Z",
+    "publishedAtUtc": "2026-07-17T01:32:01.281Z",
+    "clientLengthFeet": 33.31,
+    "clientVersion": "field-1.4.1",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-17T01:32:01.281Z",
+        "actor": "CREW-06"
+      },
+      {
+        "from": "Published",
+        "to": "UnderReview",
+        "atUtc": "2026-07-17T18:55:31.923Z",
+        "actor": "shop-planner"
+      }
+    ]
+  },
+  {
+    "id": "SK-1136",
+    "packageId": "PKG-MED-GAS-L01",
+    "crewId": "CREW-06",
+    "discipline": "Piping",
+    "diameterInches": 8,
+    "material": "Copper Type L",
+    "nodes": [
+      {
+        "x": 144.41,
+        "y": 8.78,
+        "z": 52.87
+      },
+      {
+        "x": 144.41,
+        "y": 8.78,
+        "z": 16.24
+      },
+      {
+        "x": 113.8,
+        "y": 8.78,
+        "z": 16.24
+      },
+      {
+        "x": 113.8,
+        "y": 8.78,
+        "z": 30.83
+      }
+    ],
+    "status": "Approved",
+    "capturedAtUtc": "2026-07-12T23:14:30.940Z",
+    "publishedAtUtc": "2026-07-13T00:19:48.934Z",
+    "clientLengthFeet": 81.83,
+    "clientVersion": "field-1.4.0",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-13T00:19:48.934Z",
+        "actor": "CREW-06"
+      },
+      {
+        "from": "Published",
+        "to": "UnderReview",
+        "atUtc": "2026-07-13T04:43:39.371Z",
+        "actor": "shop-planner"
+      },
+      {
+        "from": "UnderReview",
+        "to": "Approved",
+        "atUtc": "2026-07-14T00:28:49.144Z",
+        "actor": "shop-planner"
+      }
+    ]
+  },
+  {
+    "id": "SK-1137",
+    "packageId": "PKG-CHW-L02",
+    "crewId": "CREW-01",
+    "discipline": "SheetMetal",
+    "diameterInches": 24,
+    "material": "Galvanized 26ga",
+    "nodes": [
+      {
+        "x": 154.95,
+        "y": 51.23,
+        "z": 153.43
+      },
+      {
+        "x": 134.96,
+        "y": 51.23,
+        "z": 153.43
+      },
+      {
+        "x": 134.96,
+        "y": 51.23,
+        "z": 192.86
+      },
+      {
+        "x": 172.08,
+        "y": 51.23,
+        "z": 192.86
+      },
+      {
+        "x": 172.08,
+        "y": 51.23,
+        "z": 181.21
+      },
+      {
+        "x": 172.08,
+        "y": 62.83,
+        "z": 181.21
+      }
+    ],
+    "status": "Published",
+    "capturedAtUtc": "2026-07-30T19:54:36.609Z",
+    "publishedAtUtc": "2026-07-30T20:20:11.668Z",
+    "clientLengthFeet": 108.19,
+    "clientVersion": "field-1.4.1",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-30T20:20:11.668Z",
+        "actor": "CREW-01"
+      }
+    ]
+  },
+  {
+    "id": "SK-1138",
+    "packageId": "PKG-DUCT-L06",
+    "crewId": "CREW-04",
+    "discipline": "Electrical",
+    "diameterInches": 0.75,
+    "material": "EMT",
+    "nodes": [
+      {
+        "x": 0.58,
+        "y": 23.33,
+        "z": 81.46
+      },
+      {
+        "x": 7.72,
+        "y": 23.33,
+        "z": 81.46
+      },
+      {
+        "x": 7.72,
+        "y": 23.33,
+        "z": 71.42
+      },
+      {
+        "x": 7.72,
+        "y": 11.61,
+        "z": 71.42
+      }
+    ],
+    "status": "Published",
+    "capturedAtUtc": "2026-07-13T13:25:24.098Z",
+    "publishedAtUtc": "2026-07-13T13:52:35.752Z",
+    "clientLengthFeet": 17.18,
+    "clientVersion": "field-1.4.1",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-13T13:52:35.752Z",
+        "actor": "CREW-04"
+      }
+    ]
+  },
+  {
+    "id": "SK-1139",
+    "packageId": "PKG-CHW-L05",
+    "crewId": "CREW-04",
+    "discipline": "Piping",
+    "diameterInches": 3,
+    "material": "Copper Type L",
+    "nodes": [
+      {
+        "x": 51.62,
+        "y": 37.11,
+        "z": 146.62
+      },
+      {
+        "x": 58.16,
+        "y": 37.11,
+        "z": 146.62
+      },
+      {
+        "x": 58.16,
+        "y": 37.11,
+        "z": 126.78
+      },
+      {
+        "x": 21.79,
+        "y": 37.11,
+        "z": 126.78
+      },
+      {
+        "x": 21.79,
+        "y": 37.11,
+        "z": 159
+      },
+      {
+        "x": 21.79,
+        "y": 29.15,
+        "z": 159
+      },
+      {
+        "x": 31.16,
+        "y": 29.15,
+        "z": 159
+      }
+    ],
+    "status": "Rejected",
+    "capturedAtUtc": "2026-07-31T02:23:59.951Z",
+    "publishedAtUtc": "2026-07-31T03:02:30.799Z",
+    "clientLengthFeet": 104.34,
+    "clientVersion": "field-1.4.1",
+    "reviewNotes": "Diameter does not match the approved schedule for this package.",
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-31T03:02:30.799Z",
+        "actor": "CREW-04"
+      },
+      {
+        "from": "Published",
+        "to": "UnderReview",
+        "atUtc": "2026-07-31T21:12:34.679Z",
+        "actor": "shop-planner"
+      },
+      {
+        "from": "UnderReview",
+        "to": "Rejected",
+        "atUtc": "2026-08-01T11:59:24.841Z",
+        "actor": "shop-planner"
+      }
+    ]
+  },
+  {
+    "id": "SK-1140",
+    "packageId": "PKG-CHW-L05",
+    "crewId": "CREW-04",
+    "discipline": "SheetMetal",
+    "diameterInches": 18,
+    "material": "Galvanized 26ga",
+    "nodes": [
+      {
+        "x": 36.11,
+        "y": 23.32,
+        "z": 33.55
+      },
+      {
+        "x": 36.11,
+        "y": 23.32,
+        "z": -1.75
+      },
+      {
+        "x": 50.1,
+        "y": 23.32,
+        "z": -1.75
+      }
+    ],
+    "status": "Approved",
+    "capturedAtUtc": "2026-07-12T08:12:18.894Z",
+    "publishedAtUtc": "2026-07-12T09:10:57.591Z",
+    "clientLengthFeet": 49.29,
+    "clientVersion": "field-1.4.2",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-12T09:10:57.591Z",
+        "actor": "CREW-04"
+      },
+      {
+        "from": "Published",
+        "to": "UnderReview",
+        "atUtc": "2026-07-13T02:37:19.624Z",
+        "actor": "shop-planner"
+      },
+      {
+        "from": "UnderReview",
+        "to": "Approved",
+        "atUtc": "2026-07-13T12:34:56.570Z",
+        "actor": "shop-planner"
+      }
+    ]
+  },
+  {
+    "id": "SK-1141",
+    "packageId": "PKG-DUCT-L06",
+    "crewId": "CREW-02",
+    "discipline": "SheetMetal",
+    "diameterInches": 10,
+    "material": "Stainless 304",
+    "nodes": [
+      {
+        "x": 177.52,
+        "y": 21.7,
+        "z": 87
+      },
+      {
+        "x": 210.28,
+        "y": 21.7,
+        "z": 87
+      },
+      {
+        "x": 210.28,
+        "y": 21.7,
+        "z": 69.62
+      },
+      {
+        "x": 173.33,
+        "y": 21.7,
+        "z": 69.62
+      },
+      {
+        "x": 173.33,
+        "y": 21.7,
+        "z": 36.38
+      }
+    ],
+    "status": "UnderReview",
+    "capturedAtUtc": "2026-07-31T10:37:43.279Z",
+    "publishedAtUtc": "2026-07-31T11:52:23.642Z",
+    "clientLengthFeet": 120.33,
+    "clientVersion": "field-1.4.2",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-31T11:52:23.642Z",
+        "actor": "CREW-02"
+      },
+      {
+        "from": "Published",
+        "to": "UnderReview",
+        "atUtc": "2026-08-01T03:35:21.692Z",
+        "actor": "shop-planner"
+      }
+    ]
+  },
+  {
+    "id": "SK-1142",
+    "packageId": "PKG-MED-GAS-L01",
+    "crewId": "CREW-02",
+    "discipline": "Piping",
+    "diameterInches": 8,
+    "material": "CPVC",
+    "nodes": [
+      {
+        "x": 93.41,
+        "y": 24.38,
+        "z": 17.89
+      },
+      {
+        "x": 93.41,
+        "y": 24.38,
+        "z": 61.75
+      },
+      {
+        "x": 107.8,
+        "y": 24.38,
+        "z": 61.75
+      }
+    ],
+    "status": "Published",
+    "capturedAtUtc": "2026-07-16T01:31:37.551Z",
+    "publishedAtUtc": "2026-07-16T02:06:06.008Z",
+    "clientLengthFeet": 58.25,
+    "clientVersion": "field-1.4.1",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-16T02:06:06.008Z",
+        "actor": "CREW-02"
+      }
+    ]
+  },
+  {
+    "id": "SK-1143",
+    "packageId": "PKG-MED-GAS-L01",
+    "crewId": "CREW-04",
+    "discipline": "Piping",
+    "diameterInches": 1.5,
+    "material": "CPVC",
+    "nodes": [
+      {
+        "x": 177.93,
+        "y": 22.46,
+        "z": 122.16
+      },
+      {
+        "x": 147.83,
+        "y": 22.46,
+        "z": 122.16
+      },
+      {
+        "x": 147.83,
+        "y": 22.46,
+        "z": 115.82
+      },
+      {
+        "x": 105.35,
+        "y": 22.46,
+        "z": 115.82
+      },
+      {
+        "x": 105.35,
+        "y": 22.46,
+        "z": 131.13
+      }
+    ],
+    "status": "Published",
+    "capturedAtUtc": "2026-07-30T00:43:41.814Z",
+    "publishedAtUtc": "2026-07-30T01:03:24.501Z",
+    "clientLengthFeet": 94.23,
+    "clientVersion": "field-1.4.2",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-30T01:03:24.501Z",
+        "actor": "CREW-04"
+      }
+    ]
+  },
+  {
+    "id": "SK-1144",
+    "packageId": "PKG-MED-GAS-L01",
+    "crewId": "CREW-04",
+    "discipline": "Piping",
+    "diameterInches": 4,
+    "material": "CPVC",
+    "nodes": [
+      {
+        "x": 20.17,
+        "y": 35.86,
+        "z": 77.6
+      },
+      {
+        "x": 20.17,
+        "y": 35.86,
+        "z": 41.65
+      }
+    ],
+    "status": "Approved",
+    "capturedAtUtc": "2026-07-23T11:33:05.390Z",
+    "publishedAtUtc": "2026-07-23T12:03:12.197Z",
+    "clientLengthFeet": 35.95,
+    "clientVersion": "field-1.4.0",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-23T12:03:12.197Z",
+        "actor": "CREW-04"
+      },
+      {
+        "from": "Published",
+        "to": "UnderReview",
+        "atUtc": "2026-07-23T19:41:53.049Z",
+        "actor": "shop-planner"
+      },
+      {
+        "from": "UnderReview",
+        "to": "Approved",
+        "atUtc": "2026-07-23T20:38:19.895Z",
+        "actor": "shop-planner"
+      }
+    ]
+  },
+  {
+    "id": "SK-1145",
+    "packageId": "PKG-ELEC-L03",
+    "crewId": "CREW-05",
+    "discipline": "Piping",
+    "diameterInches": 1.5,
+    "material": "CPVC",
+    "nodes": [
+      {
+        "x": 14.82,
+        "y": 64.76,
+        "z": 106.48
+      },
+      {
+        "x": -20.9,
+        "y": 64.76,
+        "z": 106.48
+      }
+    ],
+    "status": "Published",
+    "capturedAtUtc": "2026-07-26T10:13:12.287Z",
+    "publishedAtUtc": "2026-07-26T10:57:24.285Z",
+    "clientLengthFeet": 35.72,
+    "clientVersion": "field-1.4.1",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-26T10:57:24.285Z",
+        "actor": "CREW-05"
+      }
+    ]
+  },
+  {
+    "id": "SK-1146",
+    "packageId": "PKG-MED-GAS-L01",
+    "crewId": "CREW-04",
+    "discipline": "Piping",
+    "diameterInches": 4,
+    "material": "Carbon Steel",
+    "nodes": [
+      {
+        "x": 119.68,
+        "y": 62.29,
+        "z": 122.7
+      },
+      {
+        "x": 119.68,
+        "y": 62.29,
+        "z": 95.16
+      },
+      {
+        "x": 127.13,
+        "y": 62.29,
+        "z": 95.16
+      }
+    ],
+    "status": "Approved",
+    "capturedAtUtc": "2026-07-22T09:14:07.609Z",
+    "publishedAtUtc": "2026-07-22T09:47:44.964Z",
+    "clientLengthFeet": 34.99,
+    "clientVersion": "field-1.4.2",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-22T09:47:44.964Z",
+        "actor": "CREW-04"
+      },
+      {
+        "from": "Published",
+        "to": "UnderReview",
+        "atUtc": "2026-07-23T02:48:05.537Z",
+        "actor": "shop-planner"
+      },
+      {
+        "from": "UnderReview",
+        "to": "Approved",
+        "atUtc": "2026-07-23T12:26:50.704Z",
+        "actor": "shop-planner"
+      }
+    ]
+  },
+  {
+    "id": "SK-1147",
+    "packageId": "PKG-HHW-L02",
+    "crewId": "CREW-01",
+    "discipline": "Piping",
+    "diameterInches": 6,
+    "material": "Copper Type L",
+    "nodes": [
+      {
+        "x": 125.91,
+        "y": 22.62,
+        "z": 113.78
+      },
+      {
+        "x": 125.91,
+        "y": 22.62,
+        "z": 132.94
+      },
+      {
+        "x": 91.15,
+        "y": 22.62,
+        "z": 132.94
+      }
+    ],
+    "status": "Published",
+    "capturedAtUtc": "2026-07-31T12:15:20.388Z",
+    "publishedAtUtc": "2026-07-31T13:31:36.082Z",
+    "clientLengthFeet": 53.92,
+    "clientVersion": "field-1.4.1",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-31T13:31:36.082Z",
+        "actor": "CREW-01"
+      }
+    ]
+  },
+  {
+    "id": "SK-1148",
+    "packageId": "PKG-HHW-L02",
+    "crewId": "CREW-04",
+    "discipline": "SheetMetal",
+    "diameterInches": 12,
+    "material": "Galvanized 26ga",
+    "nodes": [
+      {
+        "x": 4.04,
+        "y": 62.05,
+        "z": 18.35
+      },
+      {
+        "x": 4.04,
+        "y": 62.05,
+        "z": 2.14
+      },
+      {
+        "x": 11.92,
+        "y": 62.05,
+        "z": 2.14
+      },
+      {
+        "x": 11.92,
+        "y": 62.05,
+        "z": -19.31
+      },
+      {
+        "x": 54.26,
+        "y": 62.05,
+        "z": -19.31
+      },
+      {
+        "x": 54.26,
+        "y": 53.77,
+        "z": -19.31
+      }
+    ],
+    "status": "Published",
+    "capturedAtUtc": "2026-07-17T15:30:33.343Z",
+    "publishedAtUtc": "2026-07-17T16:03:19.483Z",
+    "clientLengthFeet": 87.88,
+    "clientVersion": "field-1.4.0",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-17T16:03:19.483Z",
+        "actor": "CREW-04"
+      }
+    ]
+  },
+  {
+    "id": "SK-1149",
+    "packageId": "PKG-MED-GAS-L01",
+    "crewId": "CREW-06",
+    "discipline": "Electrical",
+    "diameterInches": 1,
+    "material": "Rigid",
+    "nodes": [
+      {
+        "x": 96.81,
+        "y": 50,
+        "z": 127.7
+      },
+      {
+        "x": 136.7,
+        "y": 50,
+        "z": 127.7
+      },
+      {
+        "x": 136.7,
+        "y": 50,
+        "z": 136.15
+      },
+      {
+        "x": 96.93,
+        "y": 50,
+        "z": 136.15
+      },
+      {
+        "x": 96.93,
+        "y": 36.51,
+        "z": 136.15
+      }
+    ],
+    "status": "Published",
+    "capturedAtUtc": "2026-07-12T20:13:28.034Z",
+    "publishedAtUtc": "2026-07-12T20:43:50.610Z",
+    "clientLengthFeet": 88.11,
+    "clientVersion": "field-1.4.2",
+    "reviewNotes": null,
+    "history": [
+      {
+        "from": "Draft",
+        "to": "Published",
+        "atUtc": "2026-07-12T20:43:50.610Z",
+        "actor": "CREW-06"
+      }
+    ]
+  }
+]

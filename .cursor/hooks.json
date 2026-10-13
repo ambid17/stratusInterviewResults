@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "hooks": {
+    "beforeSubmitPrompt": [
+      {
+        "command": "node scripts/log-agent-event.mjs user-prompt-submit"
+      }
+    ],
+    "preToolUse": [
+      {
+        "command": "node scripts/log-agent-event.mjs pre-tool-use"
+      }
+    ]
+  }
+}

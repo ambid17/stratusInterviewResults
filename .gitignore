@@ -1,0 +1,49 @@
+# .NET build outputs
+bin/
+obj/
+
+# Node / Vite outputs
+node_modules/
+dist/
+.vite/
+
+# Test and coverage outputs
+TestResults/
+coverage/
+*.coverage
+*.coveragexml
+
+# Unity
+unity/StratusFieldLink/Library/
+unity/StratusFieldLink/Temp/
+unity/StratusFieldLink/Obj/
+unity/StratusFieldLink/Build/
+unity/StratusFieldLink/Builds/
+unity/StratusFieldLink/Logs/
+unity/StratusFieldLink/UserSettings/
+unity/StratusFieldLink/MemoryCaptures/
+unity/StratusFieldLink/Recordings/
+unity/StratusFieldLink/*.csproj
+unity/StratusFieldLink/*.sln
+unity/StratusFieldLink/Assets/Scenes/*.unity
+unity/StratusFieldLink/Assets/Scenes/*.unity.meta
+sysinfo.txt
+crashlytics-build.properties
+
+# Local interview runtime state
+.interview-state/
+session.log
+
+# Local machine/editor noise
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.user
+*.suo
+.vs/
+
+# Local secrets/config overrides
+.env
+.env.*
+!.env.example
